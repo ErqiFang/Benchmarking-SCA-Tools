@@ -1,0 +1,4 @@
+url,name,tag
+https://github.com/TortoiseGit/TortoiseGit.git,TortoiseGit,"""REL_2.12.0.0_EXTERNAL"""
+https://github.com/PhilipHazel/pcre2.git,pcre2,"""pcre2-10.36"""
+https://github.com/editorconfig/editorconfig-core-c.git,editorconfig-core-c,"""v0.12.4"""

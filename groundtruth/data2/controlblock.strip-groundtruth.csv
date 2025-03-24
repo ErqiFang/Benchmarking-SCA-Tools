@@ -1,0 +1,6 @@
+url,name,tag
+https://github.com/petrockblog/ControlBlockService2.git,ControlBlockService2,"""release/1.0.3"""
+https://github.com/open-source-parsers/jsoncpp.git,jsoncpp,"""1.7.7"""
+https://github.com/petrockblog/LIO.git,LIO,"""release-1.0.0"""
+https://github.com/SergiusTheBest/plog.git,plog,"""1.1.5"""
+https://github.com/fmtlib/fmt.git,fmt,"""6.1.1"""

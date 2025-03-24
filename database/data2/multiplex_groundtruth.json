@@ -1,0 +1,2233 @@
+{
+ "k4arecord.dll": [
+  {
+   "url": "https://github.com/lemenkov/libyuv",
+   "name": "libyuv",
+   "tag": []
+  },
+  {
+   "name": "libjpeg",
+   "url": "https://github.com/LuaDist/libjpeg.git",
+   "tag": []
+  },
+  {
+   "name": "libebml",
+   "url": "https://github.com/Matroska-Org/libebml.git",
+   "tag": [
+    "release-1.3.6"
+   ]
+  },
+  {
+   "name": "libjpeg-turbo",
+   "url": "https://github.com/libjpeg-turbo/libjpeg-turbo.git",
+   "tag": [
+    "2.0.1"
+   ]
+  },
+  {
+   "name": "libmatroska",
+   "url": "https://github.com/Matroska-Org/libmatroska.git",
+   "tag": [
+    "release-1.4.9"
+   ]
+  },
+  {
+   "name": "Azure-Kinect-Sensor-SDK",
+   "url": "https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git",
+   "tag": [
+    "v1.4.1",
+    "v1.4.1-rc",
+    "v1.4.1-beta.0-rc",
+    "v1.4.1-beta.0"
+   ]
+  },
+  {
+   "tag": [],
+   "name": "azure-c-shared-utility",
+   "url": "https://github.com/Azure/azure-c-shared-utility.git"
+  },
+  {
+   "name": "spdlog",
+   "url": "https://github.com/gabime/spdlog.git",
+   "tag": [
+    "v0.17.0"
+   ]
+  }
+ ],
+ "turbobench.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "lzham_codec_devel",
+   "url": "https://github.com/richgel999/lzham_codec_devel.git",
+   "tag": []
+  },
+  {
+   "name": "Turbo-Range-Coder",
+   "url": "https://github.com/powturbo/Turbo-Range-Coder",
+   "tag": []
+  },
+  {
+   "name": "brotli",
+   "url": "https://github.com/google/brotli.git",
+   "tag": []
+  },
+  {
+   "name": "lzo",
+   "url": "https://github.com/nemequ/lzo.git",
+   "tag": []
+  },
+  {
+   "name": "zstd",
+   "url": "https://github.com/facebook/zstd.git",
+   "tag": []
+  },
+  {
+   "name": "Turbo-Run-Length-Encoding",
+   "url": "https://github.com/powturbo/Turbo-Run-Length-Encoding.git",
+   "tag": []
+  },
+  {
+   "name": "bzip2",
+   "url": "https://github.com/asimonov-im/bzip2.git",
+   "tag": []
+  },
+  {
+   "name": "glza",
+   "url": "https://github.com/jrmuizel/GLZA.git",
+   "tag": []
+  },
+  {
+   "name": "lzlib",
+   "url": "https://github.com/haskell-hvr/lzlib.git",
+   "tag": []
+  },
+  {
+   "name": "quicklz",
+   "url": "https://github.com/RT-Thread-packages/quicklz.git",
+   "tag": []
+  },
+  {
+   "name": "TurboBench",
+   "url": "https://github.com/powturbo/TurboBench.git",
+   "tag": []
+  },
+  {
+   "name": "libsais",
+   "url": "https://github.com/IlyaGrebnov/libsais.git",
+   "tag": []
+  },
+  {
+   "name": "xxHash",
+   "url": "https://github.com/Cyan4973/xxHash",
+   "tag": []
+  },
+  {
+   "name": "facebook_folly",
+   "url": "https://github.com/facebook/folly.git",
+   "tag": []
+  },
+  {
+   "name": "FiniteStateEntropy",
+   "url": "https://github.com/Cyan4973/FiniteStateEntropy",
+   "tag": []
+  },
+  {
+   "name": "FastLZ",
+   "tag": [
+    "0.5.0"
+   ],
+   "url": "https://github.com/ariya/FastLZ.git"
+  },
+  {
+   "name": "libbsc",
+   "tag": [
+    "v3.2.4"
+   ],
+   "url": "https://github.com/IlyaGrebnov/libbsc.git"
+  },
+  {
+   "name": "zlib",
+   "tag": [
+    "v1.2.11"
+   ],
+   "url": "https://github.com/madler/zlib.git"
+  },
+  {
+   "name": "zopfli",
+   "tag": [
+    "zopfli-1.0.3"
+   ],
+   "url": "https://github.com/google/zopfli.git"
+  },
+  {
+   "name": "zpaq",
+   "tag": [
+    "7.15"
+   ],
+   "url": "https://github.com/zpaq/zpaq.git"
+  },
+  {
+   "name": "lzfse",
+   "tag": [
+    "lzfse-1.0"
+   ],
+   "url": "https://github.com/lzfse/lzfse.git"
+  },
+  {
+   "name": "lizard",
+   "tag": [
+    "v1.0"
+   ],
+   "url": "https://github.com/inikep/lizard.git"
+  },
+  {
+   "name": "lz4",
+   "tag": [
+    "v1.9.2"
+   ],
+   "url": "https://github.com/lz4/lz4"
+  },
+  {
+   "name": "libdeflate",
+   "tag": [
+    "v1.9"
+   ],
+   "url": "https://github.com/ebiggers/libdeflate"
+  },
+  {
+   "name": "pysap",
+   "tag": [
+    "v0.1.19"
+   ],
+   "url": "https://github.com/SecureAuthCorp/pysap"
+  },
+  {
+   "name": "fast-lzma2",
+   "tag": [
+    "v1.0.1"
+   ],
+   "url": "https://github.com/conor42/fast-lzma2"
+  },
+  {
+   "name": "lzma",
+   "tag": [
+    "v21.02"
+   ],
+   "url": "https://github.com/sisong/lzma"
+  },
+  {
+   "name": "lzsa",
+   "tag": [
+    "1.3.10"
+   ],
+   "url": "https://github.com/emmanuel-marty/lzsa"
+  }
+ ],
+ "k4aviewer.exe": [
+  {
+   "url": "https://github.com/lemenkov/libyuv",
+   "name": "libyuv",
+   "tag": []
+  },
+  {
+   "name": "libjpeg",
+   "url": "https://github.com/LuaDist/libjpeg.git",
+   "tag": []
+  },
+  {
+   "name": "imgui",
+   "url": "https://github.com/ocornut/imgui.git",
+   "tag": [
+    "v1.72b"
+   ]
+  },
+  {
+   "name": "libsoundio",
+   "url": "https://github.com/andrewrk/libsoundio.git",
+   "tag": []
+  },
+  {
+   "name": "libjpeg-turbo",
+   "url": "https://github.com/libjpeg-turbo/libjpeg-turbo.git",
+   "tag": [
+    "2.0.1"
+   ]
+  },
+  {
+   "name": "glfw",
+   "url": "https://github.com/glfw/glfw.git",
+   "tag": [
+    "3.2.1"
+   ]
+  },
+  {
+   "tag": [
+    "v1.4.1",
+    "v1.4.1-rc",
+    "v1.4.1-beta.0-rc",
+    "v1.4.1-beta.0"
+   ],
+   "name": "Azure-Kinect-Sensor-SDK",
+   "url": "https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git"
+  }
+ ],
+ "nano_node.strip": [
+  {
+   "name": "boost",
+   "url": "https://github.com/boostorg/boost.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "cpptoml",
+   "url": "https://github.com/skystrife/cpptoml.git",
+   "tag": []
+  },
+  {
+   "name": "phc-winner-argon2",
+   "url": "https://github.com/nanocurrency/phc-winner-argon2.git",
+   "tag": []
+  },
+  {
+   "name": "crc32c",
+   "url": "https://github.com/htot/crc32c.git",
+   "tag": []
+  },
+  {
+   "name": "xxHash",
+   "url": "https://github.com/Cyan4973/xxHash",
+   "tag": []
+  },
+  {
+   "name": "zstd",
+   "url": "https://github.com/facebook/zstd/",
+   "tag": []
+  },
+  {
+   "name": "miniupnp",
+   "tag": [
+    "miniupnpc_2_2_3"
+   ],
+   "url": "https://github.com/miniupnp/miniupnp.git"
+  },
+  {
+   "name": "lmdb",
+   "tag": [
+    "LMDB_0.9.21"
+   ],
+   "url": "https://github.com/LMDB/lmdb.git"
+  },
+  {
+   "name": "cryptopp",
+   "tag": [
+    "CRYPTOPP_8_5_0"
+   ],
+   "url": "https://github.com/weidai11/cryptopp.git"
+  },
+  {
+   "name": "flatbuffers",
+   "tag": [
+    "v2.0.0"
+   ],
+   "url": "https://github.com/google/flatbuffers.git"
+  },
+  {
+   "name": "rocksdb",
+   "tag": [
+    "v6.11.4"
+   ],
+   "url": "https://github.com/facebook/rocksdb.git"
+  },
+  {
+   "name": "nano-node",
+   "tag": [
+    "V23.0"
+   ],
+   "url": "https://github.com/nanocurrency/nano-node.git"
+  }
+ ],
+ "iw4x.dll": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.11.0"
+   ]
+  },
+  {
+   "name": "zlib",
+   "url": "https://github.com/madler/zlib",
+   "tag": [
+    "v1.2.11"
+   ]
+  },
+  {
+   "name": "libtommath",
+   "url": "https://github.com/libtom/libtommath.git",
+   "tag": [
+    "v1.2.0"
+   ]
+  },
+  {
+   "name": "libtomcrypt",
+   "url": "https://github.com/libtom/libtomcrypt.git",
+   "tag": [
+    "v1.18.2"
+   ]
+  },
+  {
+   "name": "iw4x-client",
+   "url": "https://github.com/XLabsProject/iw4x-client.git",
+   "tag": [
+    "v0.6.1"
+   ]
+  },
+  {
+   "name": "udis86",
+   "url": "https://github.com/vmt/udis86.git",
+   "tag": []
+  },
+  {
+   "name": "PDCurses",
+   "url": "https://github.com/wmcbrine/PDCurses.git",
+   "tag": [
+    "3.9"
+   ]
+  },
+  {
+   "name": "json11",
+   "url": "https://github.com/dropbox/json11.git",
+   "tag": [
+    "v1.0.0"
+   ]
+  },
+  {
+   "name": "mongoose",
+   "url": "https://github.com/cesanta/mongoose.git",
+   "tag": [
+    "6.11"
+   ]
+  }
+ ],
+ "TortoiseGitMerge.exe": [
+  {
+   "url": "https://github.com/apache/apr.git",
+   "name": "apr",
+   "tag": []
+  },
+  {
+   "url": "https://github.com/ppescher/resizablelib.git",
+   "name": "resizablelib",
+   "tag": []
+  },
+  {
+   "name": "apr-util",
+   "url": "https://github.com/apache/apr-util.git",
+   "tag": []
+  },
+  {
+   "name": "TortoiseGit",
+   "url": "https://github.com/TortoiseGit/TortoiseGit.git",
+   "tag": [
+    "REL_2.12.0.0_EXTERNAL"
+   ]
+  },
+  {
+   "name": "simpleini",
+   "url": "https://github.com/brofield/simpleini.git",
+   "tag": []
+  },
+  {
+   "name": "pcre2",
+   "url": "https://github.com/PhilipHazel/pcre2.git",
+   "tag": [
+    "pcre2-10.36"
+   ]
+  },
+  {
+   "name": "editorconfig-core-c",
+   "url": "https://github.com/editorconfig/editorconfig-core-c.git",
+   "tag": [
+    "v0.12.4"
+   ]
+  }
+ ],
+ "WinSparkle.dll": [
+  {
+   "name": "winsparkle",
+   "url": "https://github.com/vslavik/winsparkle.git",
+   "tag": [
+    "v0.7.0"
+   ]
+  },
+  {
+   "name": "libexpat",
+   "url": "https://github.com/libexpat/libexpat.git",
+   "tag": [
+    "R_2_2_9"
+   ]
+  },
+  {
+   "name": "wxWidgets",
+   "url": "https://github.com/wxWidgets/wxWidgets.git",
+   "tag": [
+    "v3.1.1-rc"
+   ]
+  },
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2u"
+   ]
+  }
+ ],
+ "k4a.dll": [
+  {
+   "name": "fmt",
+   "url": "https://github.com/fmtlib/fmt.git",
+   "tag": []
+  },
+  {
+   "name": "azure-c-shared-utility",
+   "tag": [],
+   "url": "https://github.com/Azure/azure-c-shared-utility.git"
+  },
+  {
+   "name": "Azure-Kinect-Sensor-SDK",
+   "tag": [
+    "v1.4.1",
+    "v1.4.1-rc",
+    "v1.4.1-beta.0-rc",
+    "v1.4.1-beta.0"
+   ],
+   "url": "https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git"
+  },
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.8"
+   ]
+  },
+  {
+   "name": "spdlog",
+   "url": "https://github.com/gabime/spdlog.git",
+   "tag": [
+    "v0.17.0"
+   ]
+  },
+  {
+   "name": "libusb",
+   "url": "https://github.com/libusb/libusb.git",
+   "tag": [
+    "v1.0.22"
+   ]
+  }
+ ],
+ "ChronoEngine.dll": [
+  {
+   "url": "http://rapidxml.sourceforge.net/",
+   "name": "rapidxml",
+   "tag": []
+  },
+  {
+   "url": "https://github.com/tinyobjloader/tinyobjloader.git",
+   "name": "tinyobjloader",
+   "tag": []
+  },
+  {
+   "name": "eigen",
+   "url": "https://gitlab.com/libeigen/eigen.git",
+   "tag": [
+    "3.3.9"
+   ]
+  },
+  {
+   "name": "chrono",
+   "url": "https://github.com/projectchrono/chrono.git",
+   "tag": [
+    "6.0.0"
+   ]
+  }
+ ],
+ "kvrocks.strip": [
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "lua",
+   "url": "https://github.com/KvrocksLabs/lua.git",
+   "tag": []
+  },
+  {
+   "name": "chrono",
+   "url": "https://github.com/cassioneri/calendar",
+   "tag": []
+  },
+  {
+   "name": "glog",
+   "tag": [
+    "v0.4.0"
+   ],
+   "url": "https://github.com/google/glog.git"
+  },
+  {
+   "name": "rocksdb",
+   "tag": [
+    "v6.19.3"
+   ],
+   "url": "https://github.com/facebook/rocksdb.git"
+  },
+  {
+   "name": "libevent",
+   "tag": [
+    "release-2.1.11-stable"
+   ],
+   "url": "https://github.com/libevent/libevent.git"
+  },
+  {
+   "name": "jemalloc",
+   "tag": [
+    "5.2.1"
+   ],
+   "url": "https://github.com/jemalloc/jemalloc.git"
+  },
+  {
+   "name": "kvrocks",
+   "tag": [
+    "v2.0.5"
+   ],
+   "url": "https://github.com/kvrockslabs/kvrocks.git"
+  }
+ ],
+ "eth_sc.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "secp256k1",
+   "url": "https://github.com/bitcoin-core/secp256k1.git",
+   "tag": []
+  },
+  {
+   "name": "OpenWeaver",
+   "url": "https://github.com/marlinprotocol/OpenWeaver.git",
+   "tag": []
+  },
+  {
+   "name": "fmt",
+   "url": "https://github.com/fmtlib/fmt.git",
+   "tag": []
+  },
+  {
+   "name": "magic_enum",
+   "url": "https://github.com/Neargye/magic_enum.git",
+   "tag": []
+  },
+  {
+   "name": "boost",
+   "tag": [
+    "boost-1.77.0"
+   ],
+   "url": "https://github.com/boostorg/boost.git"
+  },
+  {
+   "name": "libsodium",
+   "tag": [
+    "1.0.18"
+   ],
+   "url": "https://github.com/jedisct1/libsodium.git"
+  },
+  {
+   "name": "spdlog",
+   "tag": [
+    "v1.9.2"
+   ],
+   "url": "https://github.com/gabime/spdlog.git"
+  },
+  {
+   "name": "libuv",
+   "tag": [
+    "v1.43.0"
+   ],
+   "url": "https://github.com/libuv/libuv.git"
+  },
+  {
+   "name": "cryptopp",
+   "tag": [
+    "CRYPTOPP_8_6_0"
+   ],
+   "url": "https://github.com/weidai11/cryptopp.git"
+  },
+  {
+   "name": "structopt",
+   "tag": [
+    "v0.1.1"
+   ],
+   "url": "https://github.com/p-ranav/structopt.git"
+  },
+  {
+   "name": "rapidjson",
+   "tag": [
+    "v1.1.0"
+   ],
+   "url": "https://github.com/Tencent/rapidjson.git"
+  },
+  {
+   "name": "abseil-cpp",
+   "tag": [
+    "20211102.rc2",
+    "20211102.0"
+   ],
+   "url": "https://github.com/abseil/abseil-cpp"
+  }
+ ],
+ "TortoiseGitProc.exe": [
+  {
+   "url": "https://github.com/ppescher/resizablelib.git",
+   "name": "resizablelib",
+   "tag": []
+  },
+  {
+   "name": "TortoiseGit",
+   "url": "https://github.com/TortoiseGit/TortoiseGit.git",
+   "tag": [
+    "REL_2.12.0.0_EXTERNAL"
+   ]
+  },
+  {
+   "name": "ogdf",
+   "url": "https://github.com/ogdf/ogdf.git",
+   "tag": [
+    "baobab-201505"
+   ]
+  },
+  {
+   "name": "json",
+   "url": "https://github.com/nlohmann/json.git",
+   "tag": []
+  },
+  {
+   "name": "hunspell",
+   "url": "https://github.com/hunspell/hunspell.git",
+   "tag": []
+  },
+  {
+   "name": "simpleini",
+   "url": "https://github.com/brofield/simpleini.git",
+   "tag": []
+  }
+ ],
+ "yuzu-cmd.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "dynarmic",
+   "url": "https://github.com/MerryMage/dynarmic.git",
+   "tag": []
+  },
+  {
+   "name": "ext-soundtouch",
+   "url": "https://github.com/citra-emu/ext-soundtouch.git",
+   "tag": []
+  },
+  {
+   "name": "mbedtls",
+   "url": "https://github.com/yuzu-emu/mbedtls",
+   "tag": []
+  },
+  {
+   "name": "sirit",
+   "url": "https://github.com/ReinUsesLisp/sirit",
+   "tag": []
+  },
+  {
+   "name": "cubeb",
+   "url": "https://github.com/mozilla/cubeb.git",
+   "tag": []
+  },
+  {
+   "name": "microprofile",
+   "url": "https://github.com/jonasmr/microprofile.git",
+   "tag": []
+  },
+  {
+   "name": "boost_crc",
+   "url": "https://github.com/boostorg/crc.git",
+   "tag": []
+  },
+  {
+   "name": "fmt",
+   "url": "https://github.com/fmtlib/fmt.git",
+   "tag": []
+  },
+  {
+   "name": "nlohmann",
+   "url": "https://github.com/nlohmann/json.git",
+   "tag": []
+  },
+  {
+   "name": "wayland",
+   "url": "https://github.com/nobled/wayland.git",
+   "tag": []
+  },
+  {
+   "name": "hidapi",
+   "url": "https://github.com/libusb/hidapi",
+   "tag": []
+  },
+  {
+   "name": "expected",
+   "url": "https://github.com/TartanLlama/expected.git",
+   "tag": []
+  },
+  {
+   "name": "dolphin",
+   "url": "https://github.com/dolphin-emu/dolphin.git",
+   "tag": []
+  },
+  {
+   "name": "citra",
+   "url": "https://github.com/citra-emu/citra.git",
+   "tag": []
+  },
+  {
+   "name": "cityhash",
+   "url": "https://github.com/google/cityhash.git",
+   "tag": []
+  },
+  {
+   "name": "inih",
+   "tag": [
+    "r52"
+   ],
+   "url": "https://github.com/benhoyt/inih.git"
+  },
+  {
+   "name": "xbyak",
+   "tag": [
+    "v5.96"
+   ],
+   "url": "https://github.com/herumi/xbyak.git"
+  },
+  {
+   "name": "opus",
+   "tag": [
+    "v1.3.1"
+   ],
+   "url": "https://github.com/xiph/opus.git"
+  },
+  {
+   "name": "SDL",
+   "tag": [
+    "release-2.0.20"
+   ],
+   "url": "https://github.com/libsdl-org/SDL.git"
+  },
+  {
+   "name": "cpp-httplib",
+   "tag": [
+    "v0.9.1"
+   ],
+   "url": "https://github.com/yhirose/cpp-httplib.git"
+  },
+  {
+   "name": "yuzu-mainline",
+   "tag": [
+    "mainline-0-912"
+   ],
+   "url": "https://github.com/yuzu-emu/yuzu-mainline.git"
+  }
+ ],
+ "controlblock.strip": [
+  {
+   "name": "libmcp23s17",
+   "url": "https://github.com/piface/libmcp23s17.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "ControlBlockService2",
+   "tag": [
+    "release/1.0.3"
+   ],
+   "url": "https://github.com/petrockblog/ControlBlockService2.git"
+  },
+  {
+   "name": "jsoncpp",
+   "tag": [
+    "1.7.7"
+   ],
+   "url": "https://github.com/open-source-parsers/jsoncpp.git"
+  },
+  {
+   "name": "LIO",
+   "tag": [
+    "release-1.0.0"
+   ],
+   "url": "https://github.com/petrockblog/LIO.git"
+  },
+  {
+   "name": "plog",
+   "tag": [
+    "1.1.5"
+   ],
+   "url": "https://github.com/SergiusTheBest/plog.git"
+  },
+  {
+   "name": "fmt",
+   "tag": [
+    "6.1.1"
+   ],
+   "url": "https://github.com/fmtlib/fmt.git"
+  }
+ ],
+ "replay-sorcery.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "sdl2-audio-monitor",
+   "url": "https://github.com/pseregiet/sdl2-audio-monitor.git",
+   "tag": []
+  },
+  {
+   "name": "x264",
+   "url": "https://code.videolan.org/videolan/x264.git",
+   "tag": []
+  },
+  {
+   "name": "libbacktrace",
+   "url": "https://github.com/ianlancetaylor/libbacktrace.git",
+   "tag": []
+  },
+  {
+   "name": "minimp4",
+   "url": "https://github.com/lieff/minimp4.git",
+   "tag": []
+  },
+  {
+   "name": "yuv2rgb",
+   "url": "https://github.com/descampsa/yuv2rgb",
+   "tag": []
+  },
+  {
+   "name": "libjpeg-turbo",
+   "tag": [
+    "2.0.6"
+   ],
+   "url": "https://github.com/libjpeg-turbo/libjpeg-turbo.git"
+  },
+  {
+   "name": "libjpeg",
+   "tag": [],
+   "url": "https://github.com/LuaDist/libjpeg.git"
+  },
+  {
+   "name": "fdk-aac",
+   "tag": [
+    "v2.0.2"
+   ],
+   "url": "https://github.com/mstorsjo/fdk-aac.git"
+  },
+  {
+   "name": "ReplaySorcery",
+   "tag": [
+    "0.3.1"
+   ],
+   "url": "https://github.com/matanui159/ReplaySorcery.git"
+  }
+ ],
+ "libclamavd.dll": [
+  {
+   "name": "clamav",
+   "url": "https://github.com/clamwin/clamav.git",
+   "tag": []
+  },
+  {
+   "name": "gnulib",
+   "url": "https://github.com/coreutils/gnulib.git",
+   "tag": []
+  },
+  {
+   "name": "tomsfastmath",
+   "url": "https://github.com/libtom/tomsfastmath.git",
+   "tag": []
+  },
+  {
+   "name": "libmspack",
+   "url": "https://github.com/kyz/libmspack.git",
+   "tag": []
+  },
+  {
+   "name": "pthreads-win32",
+   "url": "https://github.com/GerHobbelt/pthread-win32.git",
+   "tag": []
+  },
+  {
+   "name": "libxml2",
+   "url": "https://github.com/GNOME/libxml2.git",
+   "tag": [
+    "v2.9.12"
+   ]
+  },
+  {
+   "name": "clamav-win32",
+   "url": "https://github.com/clamwin/clamav-win32.git",
+   "tag": [
+    "v0.103.5"
+   ]
+  },
+  {
+   "name": "pcre2",
+   "url": "https://github.com/PhilipHazel/pcre2.git",
+   "tag": [
+    "pcre2-10.39"
+   ]
+  },
+  {
+   "name": "json-c",
+   "url": "https://github.com/json-c/json-c.git",
+   "tag": [
+    "json-c-0.15-20200726"
+   ]
+  },
+  {
+   "name": "7z",
+   "url": "https://github.com/kornelski/7z.git",
+   "tag": [
+    "9.20"
+   ]
+  },
+  {
+   "name": "bzip2",
+   "url": "https://sourceware.org/git/bzip2.git",
+   "tag": [
+    "bzip2-1.0.8"
+   ]
+  },
+  {
+   "name": "zlib",
+   "url": "https://github.com/madler/zlib.git",
+   "tag": [
+    "v1.2.11"
+   ]
+  },
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1m"
+   ]
+  }
+ ],
+ "clickhouse.strip": [
+  {
+   "name": "s2geometry",
+   "url": "https://github.com/google/s2geometry",
+   "tag": []
+  },
+  {
+   "name": "postgres",
+   "url": "https://github.com/postgres/postgres",
+   "tag": []
+  },
+  {
+   "name": "NuRaft",
+   "url": "https://github.com/eBay/NuRaft",
+   "tag": []
+  },
+  {
+   "name": "aws-sdk-cpp",
+   "url": "https://github.com/aws/aws-sdk-cpp",
+   "tag": []
+  },
+  {
+   "name": "AMQP-CPP",
+   "url": "https://github.com/CopernicaMarketingSoftware/AMQP-CPP",
+   "tag": []
+  },
+  {
+   "name": "lemmagen-c",
+   "url": "https://github.com/evillique/lemmagen-c",
+   "tag": []
+  },
+  {
+   "name": "boringssl",
+   "url": "https://github.com/google/boringssl",
+   "tag": []
+  },
+  {
+   "name": "snappy",
+   "url": "https://github.com/google/snappy",
+   "tag": []
+  },
+  {
+   "name": "zlib-ng",
+   "url": "https://github.com/zlib-ng/zlib-ng",
+   "tag": []
+  },
+  {
+   "name": "cctz",
+   "url": "https://github.com/google/cctz",
+   "tag": []
+  },
+  {
+   "name": "smhasher",
+   "url": "https://github.com/aappleby/smhasher",
+   "tag": []
+  },
+  {
+   "name": "Turbo-Base64",
+   "url": "https://github.com/powturbo/Turbo-Base64",
+   "tag": []
+  },
+  {
+   "name": "libstemmer_c",
+   "url": "https://github.com/evillique/libstemmer_c",
+   "tag": []
+  },
+  {
+   "name": "thrift",
+   "url": "https://github.com/apache/thrift",
+   "tag": []
+  },
+  {
+   "name": "libfarmhash",
+   "url": "https://github.com/apache/thrift",
+   "tag": []
+  },
+  {
+   "name": "poco",
+   "url": "https://github.com/pocoproject/poco",
+   "tag": []
+  },
+  {
+   "name": "krb5",
+   "url": "https://github.com/krb5/krb5",
+   "tag": []
+  },
+  {
+   "name": "MetroHash",
+   "url": "https://github.com/jandrewrogers/MetroHash",
+   "tag": []
+  },
+  {
+   "name": "boost",
+   "url": "https://github.com/ClickHouse-Extras/boost",
+   "tag": []
+  },
+  {
+   "name": "cpp-driver",
+   "url": "https://github.com/datastax/cpp-driver",
+   "tag": []
+  },
+  {
+   "name": "openldap",
+   "url": "https://git.openldap.org/openldap/openldap",
+   "tag": []
+  },
+  {
+   "name": "bzip2",
+   "url": "https://sourceware.org/git/bzip2.git",
+   "tag": []
+  },
+  {
+   "name": "librdkafka",
+   "url": "https://github.com/edenhill/librdkafka",
+   "tag": []
+  },
+  {
+   "name": "h3",
+   "url": "https://github.com/uber/h3",
+   "tag": []
+  },
+  {
+   "name": "orc",
+   "url": "https://github.com/apache/orc",
+   "tag": []
+  },
+  {
+   "name": "llvm",
+   "url": "https://github.com/llvm/llvm-project",
+   "tag": []
+  },
+  {
+   "name": "libpqxx",
+   "url": "https://github.com/jtv/libpqxx",
+   "tag": []
+  },
+  {
+   "name": "clickhouse",
+   "tag": [
+    "v22.1.2.2-stable"
+   ],
+   "url": "https://github.com/ClickHouse/ClickHouse"
+  },
+  {
+   "name": "jemalloc",
+   "tag": [
+    "5.2.1"
+   ],
+   "url": "https://github.com/jemalloc/jemalloc"
+  },
+  {
+   "name": "avro",
+   "tag": [
+    "release-1.11.0-rc2",
+    "release-1.11.0"
+   ],
+   "url": "https://github.com/apache/avro"
+  },
+  {
+   "name": "sqlite",
+   "tag": [
+    "version-3.37.2"
+   ],
+   "url": "https://github.com/sqlite/sqlite.git"
+  },
+  {
+   "name": "yaml-cpp",
+   "tag": [
+    "yaml-cpp-0.7.0"
+   ],
+   "url": "https://github.com/jbeder/yaml-cpp"
+  },
+  {
+   "name": "zstd",
+   "tag": [
+    "v1.5.1"
+   ],
+   "url": "https://github.com/facebook/zstd"
+  },
+  {
+   "name": "arrow",
+   "tag": [
+    "go/v6.0.1",
+    "apache-arrow-6.0.1"
+   ],
+   "url": "https://github.com/apache/arrow"
+  },
+  {
+   "name": "libuv",
+   "tag": [
+    "v1.38.1"
+   ],
+   "url": "https://github.com/libuv/libuv"
+  },
+  {
+   "name": "brotli",
+   "tag": [
+    "v1.0.9"
+   ],
+   "url": "https://github.com/google/brotli"
+  },
+  {
+   "name": "re2",
+   "tag": [
+    "2021-11-01"
+   ],
+   "url": "https://github.com/google/re2"
+  },
+  {
+   "name": "cyrus-sasl",
+   "tag": [
+    "cyrus-sasl-2.1.27"
+   ],
+   "url": "https://github.com/cyrusimap/cyrus-sasl"
+  },
+  {
+   "name": "fast_float",
+   "tag": [
+    "v3.4.0"
+   ],
+   "url": "https://github.com/fastfloat/fast_float"
+  },
+  {
+   "name": "cppkafka",
+   "tag": [
+    "0.4.0"
+   ],
+   "url": "https://github.com/mfontanini/cppkafka"
+  },
+  {
+   "name": "capnproto",
+   "tag": [
+    "v0.9.1"
+   ],
+   "url": "https://github.com/capnproto/capnproto"
+  },
+  {
+   "name": "libxml2",
+   "tag": [
+    "v2.9.8"
+   ],
+   "url": "https://github.com/GNOME/libxml2"
+  },
+  {
+   "name": "msgpack-c",
+   "tag": [
+    "cpp-4.0.3"
+   ],
+   "url": "https://github.com/msgpack/msgpack-c"
+  },
+  {
+   "name": "xz",
+   "tag": [
+    "v5.3.1alpha"
+   ],
+   "url": "https://github.com/xz-mirror/xz"
+  },
+  {
+   "name": "abseil-cpp",
+   "tag": [
+    "20211102.rc2",
+    "20211102.0"
+   ],
+   "url": "https://github.com/abseil/abseil-cpp"
+  },
+  {
+   "name": "miniselect",
+   "tag": [
+    "0.1.0"
+   ],
+   "url": "https://github.com/danlark1/miniselect"
+  },
+  {
+   "name": "replxx",
+   "tag": [
+    "release-0.0.4"
+   ],
+   "url": "https://github.com/AmokHuginnsson/replxx"
+  },
+  {
+   "name": "dragonbox",
+   "tag": [
+    "1.0.0"
+   ],
+   "url": "https://github.com/jk-jeon/dragonbox"
+  },
+  {
+   "name": "double-conversion",
+   "tag": [
+    "v3.0.1",
+    "v3.0.0"
+   ],
+   "url": "https://github.com/google/double-conversion"
+  },
+  {
+   "name": "lz4",
+   "tag": [
+    "v1.9.3"
+   ],
+   "url": "https://github.com/lz4/lz4"
+  },
+  {
+   "name": "azure",
+   "tag": [
+    "azure-template_1.0.0-beta.1211895"
+   ],
+   "url": "https://github.com/Azure/azure-sdk-for-cpp"
+  },
+  {
+   "name": "simdjson",
+   "tag": [
+    "v1.0.2"
+   ],
+   "url": "https://github.com/simdjson/simdjson"
+  },
+  {
+   "name": "croaring",
+   "tag": [
+    "v0.4.0"
+   ],
+   "url": "https://github.com/RoaringBitmap/CRoaring"
+  },
+  {
+   "name": "datasketches-cpp",
+   "tag": [
+    "3.0.0-rc1",
+    "3.0.0"
+   ],
+   "url": "https://github.com/apache/datasketches-cpp"
+  },
+  {
+   "name": "fmt",
+   "tag": [
+    "7.0.2"
+   ],
+   "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+   "name": "grpc",
+   "tag": [
+    "v1.33.2"
+   ],
+   "url": "https://github.com/grpc/grpc"
+  },
+  {
+   "name": "protobuf",
+   "tag": [
+    "v3.17.3"
+   ],
+   "url": "https://github.com/protocolbuffers/protobuf"
+  }
+ ],
+ "dosbox_core_libretro.so.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "libretro-common",
+   "url": "https://github.com/libretro/libretro-common.git",
+   "tag": []
+  },
+  {
+   "name": "libsndfile",
+   "url": "https://github.com/libsndfile/libsndfile.git",
+   "tag": []
+  },
+  {
+   "name": "SDL-1.2",
+   "url": "https://github.com/libsdl-org/SDL-1.2.git",
+   "tag": []
+  },
+  {
+   "name": "libffi",
+   "url": "https://github.com/libffi/libffi.git",
+   "tag": []
+  },
+  {
+   "name": "SDL_audiolib",
+   "url": "https://github.com/realnc/SDL_audiolib.git",
+   "tag": []
+  },
+  {
+   "name": "libinstpatch",
+   "url": "https://github.com/swami/libinstpatch.git",
+   "tag": []
+  },
+  {
+   "name": "munt",
+   "url": "https://github.com/munt/munt.git",
+   "tag": []
+  },
+  {
+   "name": "vorbis",
+   "url": "https://github.com/xiph/vorbis.git",
+   "tag": []
+  },
+  {
+   "name": "fmt",
+   "url": "https://github.com/fmtlib/fmt.git",
+   "tag": []
+  },
+  {
+   "name": "SDL_net",
+   "url": "https://github.com/libsdl-org/SDL_net.git",
+   "tag": []
+  },
+  {
+   "name": "ogg",
+   "url": "https://github.com/xiph/ogg.git",
+   "tag": []
+  },
+  {
+   "name": "dr_libs",
+   "url": "https://github.com/mackron/dr_libs",
+   "tag": []
+  },
+  {
+   "name": "opus-tools",
+   "url": "https://github.com/xiph/opus-tools.git",
+   "tag": []
+  },
+  {
+   "name": "flac",
+   "tag": [
+    "1.3.3"
+   ],
+   "url": "https://github.com/xiph/flac.git"
+  },
+  {
+   "name": "opus",
+   "tag": [
+    "v1.3.1"
+   ],
+   "url": "https://github.com/xiph/opus.git"
+  },
+  {
+   "name": "fluidsynth",
+   "tag": [
+    "v2.2.4"
+   ],
+   "url": "https://github.com/FluidSynth/fluidsynth.git"
+  },
+  {
+   "name": "dosbox-core",
+   "tag": [
+    "latest_build_armhf",
+    "latest_build"
+   ],
+   "url": "https://github.com/realnc/dosbox-core.git"
+  }
+ ],
+ "ecal_rec.strip": [
+  {
+   "name": "fmt",
+   "url": "https://github.com/fmtlib/fmt",
+   "tag": []
+  },
+  {
+   "name": "ecal",
+   "tag": [
+    "v5.9.4"
+   ],
+   "url": "https://github.com/continental/ecal"
+  },
+  {
+   "name": "asio",
+   "tag": [],
+   "url": "https://github.com/chriskohlhoff/asio.git"
+  },
+  {
+   "name": "tinyxml2",
+   "tag": [
+    "9.0.0"
+   ],
+   "url": "https://github.com/leethomason/tinyxml2"
+  },
+  {
+   "name": "spdlog",
+   "tag": [
+    "v1.9.2"
+   ],
+   "url": "https://github.com/gabime/spdlog"
+  },
+  {
+   "name": "fineftp-server",
+   "tag": [
+    "v1.3.0"
+   ],
+   "url": "https://github.com/continental/fineftp-server"
+  }
+ ],
+ "grpc_csharp_ext.dll": [
+  {
+   "name": "boringssl",
+   "url": "https://github.com/google/boringssl.git",
+   "tag": []
+  },
+  {
+   "name": "upb",
+   "url": "https://github.com/protocolbuffers/upb.git",
+   "tag": []
+  },
+  {
+   "name": "grpc",
+   "url": "https://github.com/grpc/grpc.git",
+   "tag": [
+    "v1.42.0"
+   ]
+  },
+  {
+   "name": "cares",
+   "url": "https://github.com/c-ares/c-ares.git",
+   "tag": [
+    "cares-1_15_0"
+   ]
+  },
+  {
+   "name": "abseil-cpp",
+   "url": "https://github.com/abseil/abseil-cpp.git",
+   "tag": [
+    "20210324.2"
+   ]
+  },
+  {
+   "name": "zlib",
+   "url": "https://github.com/madler/zlib",
+   "tag": [
+    "v1.2.11"
+   ]
+  },
+  {
+   "name": "re2",
+   "url": "https://github.com/google/re2.git",
+   "tag": [
+    "2021-09-01"
+   ]
+  }
+ ],
+ "tendisplus.strip": [
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "rapidjson",
+   "url": "https://github.com/Tencent/rapidjson.git",
+   "tag": []
+  },
+  {
+   "name": "lua",
+   "url": "https://github.com/lua/lua.git",
+   "tag": []
+  },
+  {
+   "name": "lua-cmsgpack",
+   "url": "https://github.com/antirez/lua-cmsgpack.git",
+   "tag": []
+  },
+  {
+   "name": "smhasher",
+   "url": "https://github.com/aappleby/smhasher.git",
+   "tag": []
+  },
+  {
+   "name": "glog",
+   "tag": [
+    "v0.4.0"
+   ],
+   "url": "https://github.com/google/glog.git"
+  },
+  {
+   "name": "snappy",
+   "tag": [
+    "1.1.8"
+   ],
+   "url": "https://github.com/google/snappy.git"
+  },
+  {
+   "name": "lz4",
+   "tag": [
+    "v1.9.2"
+   ],
+   "url": "https://github.com/lz4/lz4.git"
+  },
+  {
+   "name": "jemalloc",
+   "tag": [
+    "5.2.1"
+   ],
+   "url": "https://github.com/jemalloc/jemalloc.git"
+  },
+  {
+   "name": "asio",
+   "tag": [
+    "asio-1-12-0"
+   ],
+   "url": "https://github.com/chriskohlhoff/asio.git"
+  },
+  {
+   "name": "tendis",
+   "tag": [
+    "2.4.3-rocksdb-v5.13.4"
+   ],
+   "url": "https://github.com/Tencent/tendis.git"
+  },
+  {
+   "name": "rocksdb",
+   "tag": [
+    "v5.13.4"
+   ],
+   "url": "https://github.com/facebook/rocksdb.git"
+  }
+ ],
+ "prometheus_test.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": []
+  },
+  {
+   "name": "googletest",
+   "tag": [
+    "release-1.8.0"
+   ],
+   "url": "https://github.com/google/googletest.git"
+  },
+  {
+   "name": "prometheus-cpp",
+   "tag": [
+    "v0.3"
+   ],
+   "url": "https://github.com/jupp0r/prometheus-cpp.git"
+  }
+ ],
+ "example.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": []
+  },
+  {
+   "name": "libsodium",
+   "tag": [
+    "1.0.18-RELEASE"
+   ],
+   "url": "https://github.com/jedisct1/libsodium.git"
+  },
+  {
+   "name": "mbedtls",
+   "tag": [
+    "mbedtls-2.16.0"
+   ],
+   "url": "https://github.com/ARMmbed/mbedtls.git"
+  },
+  {
+   "name": "st-device-sdk-c",
+   "tag": [
+    "v1.7.0"
+   ],
+   "url": "https://github.com/SmartThingsCommunity/st-device-sdk-c.git"
+  }
+ ],
+ "db_bench.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "zenfs",
+   "url": "https://github.com/westerndigitalcorporation/zenfs.git",
+   "tag": []
+  },
+  {
+   "name": "bzip2",
+   "url": "https://github.com/libarchive/bzip2.git",
+   "tag": []
+  },
+  {
+   "name": "rocksdb",
+   "url": "https://github.com/facebook/rocksdb.git",
+   "tag": []
+  },
+  {
+   "name": "googletest",
+   "url": "https://github.com/google/googletest.git",
+   "tag": []
+  },
+  {
+   "name": "terarkdb",
+   "url": "https://github.com/bytedance/terarkdb.git",
+   "tag": []
+  },
+  {
+   "name": "xxHash",
+   "url": "https://github.com/Cyan4973/xxHash",
+   "tag": []
+  },
+  {
+   "name": "FiniteStateEntropy",
+   "url": "https://github.com/Cyan4973/FiniteStateEntropy",
+   "tag": []
+  },
+  {
+   "name": "zstd",
+   "tag": [
+    "v1.1.3"
+   ],
+   "url": "https://github.com/facebook/zstd.git"
+  },
+  {
+   "name": "zlib",
+   "tag": [
+    "v1.2.11"
+   ],
+   "url": "https://github.com/madler/zlib.git"
+  },
+  {
+   "name": "snappy",
+   "tag": [
+    "1.1.8"
+   ],
+   "url": "https://github.com/google/snappy.git"
+  },
+  {
+   "name": "lz4",
+   "tag": [
+    "v1.9.3"
+   ],
+   "url": "https://github.com/lz4/lz4.git"
+  },
+  {
+   "name": "jemalloc",
+   "tag": [
+    "5.2.1"
+   ],
+   "url": "https://github.com/jemalloc/jemalloc.git"
+  },
+  {
+   "name": "gflags",
+   "tag": [
+    "v2.2.2"
+   ],
+   "url": "https://github.com/gflags/gflags.git"
+  }
+ ],
+ "hyriseSystemTest.strip": [
+  {
+   "name": "tpcds-kit",
+   "url": "https://github.com/hyrise-mp/tpcds-kit.git",
+   "tag": []
+  },
+  {
+   "name": "libpqxx",
+   "url": "https://github.com/jtv/libpqxx.git",
+   "tag": []
+  },
+  {
+   "name": "json",
+   "url": "https://github.com/nlohmann/json.git",
+   "tag": []
+  },
+  {
+   "name": "tbb",
+   "url": "https://github.com/jckarter/tbb.git",
+   "tag": []
+  },
+  {
+   "name": "tpch-dbgen",
+   "url": "https://github.com/electrum/tpch-dbgen.git",
+   "tag": []
+  },
+  {
+   "name": "boost",
+   "url": "https://github.com/boostorg/boost.git",
+   "tag": []
+  },
+  {
+   "name": "cxxopts",
+   "tag": [
+    "v3.0.0"
+   ],
+   "url": "https://github.com/jarro2783/cxxopts.git"
+  },
+  {
+   "name": "googletest",
+   "tag": [
+    "release-1.11.0"
+   ],
+   "url": "https://github.com/google/googletest.git"
+  },
+  {
+   "name": "robin-hood-hashing",
+   "tag": [
+    "3.5.1"
+   ],
+   "url": "https://github.com/martinus/robin-hood-hashing"
+  },
+  {
+   "name": "hyrise",
+   "tag": [
+    "paper/tpch"
+   ],
+   "url": "https://github.com/hyrise/hyrise.git"
+  }
+ ],
+ "pagespeed_automatic_test.strip": [
+  {
+   "name": "glibc",
+   "url": "git://sourceware.org/git/glibc.git",
+   "tag": []
+  },
+  {
+   "name": "gcc",
+   "url": "https://github.com/gcc-mirror/gcc.git",
+   "tag": []
+  },
+  {
+   "name": "boringssl",
+   "url": "https://github.com/google/boringssl",
+   "tag": []
+  },
+  {
+   "name": "incubator-pagespeed-icu",
+   "url": "https://github.com/apache/incubator-pagespeed-icu.git",
+   "tag": []
+  },
+  {
+   "name": "base",
+   "url": "https://chromium.googlesource.com/chromium/src/base",
+   "tag": []
+  },
+  {
+   "name": "libjpeg_turbo",
+   "url": "https://chromium.googlesource.com/chromium/deps/libjpeg_turbo",
+   "tag": []
+  },
+  {
+   "name": "google-url",
+   "url": "https://chromium.googlesource.com/external/google-url",
+   "tag": []
+  },
+  {
+   "name": "src",
+   "url": "https://chromium.googlesource.com/external/gflags/src",
+   "tag": []
+  },
+  {
+   "name": "incubator-pagespeed-drp",
+   "url": "https://github.com/apache/incubator-pagespeed-drp.git",
+   "tag": []
+  },
+  {
+   "name": "incubator-pagespeed-optipng",
+   "url": "https://github.com/apache/incubator-pagespeed-optipng.git",
+   "tag": []
+  },
+  {
+   "name": "cpp-base64",
+   "url": "https://github.com/ReneNyffenegger/cpp-base64.git",
+   "tag": []
+  },
+  {
+   "name": "android_libutf",
+   "url": "https://android.googlesource.com/platform/external/libutf",
+   "tag": []
+  },
+  {
+   "name": "rdestl",
+   "url": "https://github.com/4144/rdestl.git",
+   "tag": []
+  },
+  {
+   "name": "redis",
+   "url": "https://github.com/redis/redis.git",
+   "tag": []
+  },
+  {
+   "name": "apatch_serf",
+   "url": "https://github.com/apache/serf.git",
+   "tag": []
+  },
+  {
+   "name": "openbsd",
+   "url": "https://github.com/libressl-portable/openbsd.git",
+   "tag": []
+  },
+  {
+   "name": "netlib_fp",
+   "url": "http://www.netlib.org/fp/",
+   "tag": []
+  },
+  {
+   "name": "nspr",
+   "url": "https://github.com/neverware-mirrors/nspr.git",
+   "tag": []
+  },
+  {
+   "name": "brotli",
+   "tag": [
+    "v0.5.2"
+   ],
+   "url": "https://github.com/google/brotli.git"
+  },
+  {
+   "name": "apr-util",
+   "tag": [
+    "1.6.0"
+   ],
+   "url": "https://github.com/apache/apr-util.git"
+  },
+  {
+   "name": "re2",
+   "tag": [
+    "2019-07-01"
+   ],
+   "url": "https://github.com/google/re2.git"
+  },
+  {
+   "name": "libpng",
+   "tag": [
+    "v1.6.34"
+   ],
+   "url": "https://github.com/glennrp/libpng.git"
+  },
+  {
+   "name": "hiredis",
+   "tag": [
+    "v0.13.3"
+   ],
+   "url": "https://github.com/redis/hiredis.git"
+  },
+  {
+   "name": "apr",
+   "tag": [
+    "1.6.2"
+   ],
+   "url": "https://github.com/apache/apr.git"
+  },
+  {
+   "name": "libwebp",
+   "tag": [
+    "v0.6.1"
+   ],
+   "url": "https://github.com/webmproject/libwebp"
+  },
+  {
+   "name": "grpc",
+   "tag": [
+    "v1.6.7"
+   ],
+   "url": "https://github.com/grpc/grpc.git"
+  },
+  {
+   "name": "protobuf",
+   "tag": [
+    "v3.0.0"
+   ],
+   "url": "https://github.com/protocolbuffers/protobuf.git"
+  },
+  {
+   "name": "sparsehash",
+   "tag": [
+    "sparsehash-1.7"
+   ],
+   "url": "https://github.com/google/sparsehash.git"
+  },
+  {
+   "name": "jsoncpp",
+   "tag": [
+    "1.0.0"
+   ],
+   "url": "https://github.com/open-source-parsers/jsoncpp.git"
+  },
+  {
+   "name": "googletest",
+   "tag": [
+    "release-1.7.0"
+   ],
+   "url": "https://github.com/google/googletest.git"
+  },
+  {
+   "name": "googlemock",
+   "tag": [
+    "release-1.7.0"
+   ],
+   "url": "https://github.com/google/googlemock.git"
+  },
+  {
+   "name": "zlib",
+   "tag": [
+    "v1.2.11"
+   ],
+   "url": "https://github.com/madler/zlib.git"
+  },
+  {
+   "name": "giflib-mirror",
+   "tag": [
+    "5.1.4"
+   ],
+   "url": "https://github.com/nesbox/giflib.git"
+  },
+  {
+   "name": "incubator-pagespeed-mod",
+   "tag": [
+    "v1.14.36.1",
+    "latest-stable",
+    "latest-beta"
+   ],
+   "url": "https://github.com/apache/incubator-pagespeed-mod.git"
+  }
+ ],
+ "tic80.exe": [
+  {
+   "name": "lpeg",
+   "url": "https://github.com/nesbox/lpeg.git",
+   "tag": []
+  },
+  {
+   "name": "blip-buf",
+   "url": "https://github.com/nesbox/blip-buf.git",
+   "tag": []
+  },
+  {
+   "name": "SDL",
+   "url": "https://github.com/libsdl-org/SDL.git",
+   "tag": [
+    "release-2.0.14"
+   ]
+  },
+  {
+   "name": "TIC-80",
+   "tag": [
+    "0.90.1723",
+    "v0.90.1723"
+   ],
+   "url": "https://github.com/nesbox/TIC-80.git"
+  },
+  {
+   "name": "giflib",
+   "url": "https://github.com/nesbox/giflib.git",
+   "tag": ["5.2.1"]
+  },
+  {
+   "name": "squirrel",
+   "url": "https://github.com/albertodemichelis/squirrel.git",
+   "tag": [
+    "v3.1"
+   ]
+  },
+  {
+   "name": "zlib",
+   "url": "https://github.com/madler/zlib",
+   "tag": [
+    "v1.2.11"
+   ]
+  },
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_74_0"
+   ]
+  },
+  {
+   "name": "lua",
+   "url": "https://github.com/lua/lua.git",
+   "tag": [
+    "v5.3.6"
+   ]
+  },
+  {
+   "name": "libpng",
+   "url": "https://github.com/glennrp/libpng.git",
+   "tag": [
+    "v1.6.37"
+   ]
+  },
+  {
+   "name": "wren",
+   "url": "https://github.com/wren-lang/wren.git",
+   "tag": [
+    "0.4.0"
+   ]
+  },
+  {
+   "name": "dirent",
+   "url": "https://github.com/tronkko/dirent.git",
+   "tag": [
+    "1.23"
+   ]
+  },
+  {
+   "name": "zip",
+   "url": "https://github.com/kuba--/zip.git",
+   "tag": [
+    "v0.1.20"
+   ]
+  },
+  {
+   "name": "argparse",
+   "url": "https://github.com/cofyc/argparse.git",
+   "tag": [
+    "v1.0.2"
+   ]
+  },
+  {
+   "name": "duktape-releases",
+   "url": "https://github.com/svaarala/duktape-releases.git",
+   "tag": [
+    "v2.6.0"
+   ]
+  }
+ ]
+}

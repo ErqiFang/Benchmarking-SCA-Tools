@@ -1,0 +1,8 @@
+url,name,tag
+https://github.com/google/glog.git,glog,"""v0.4.0"""
+https://github.com/google/snappy.git,snappy,"""1.1.8"""
+https://github.com/lz4/lz4.git,lz4,"""v1.9.2"""
+https://github.com/jemalloc/jemalloc.git,jemalloc,"""5.2.1"""
+https://github.com/chriskohlhoff/asio.git,asio,"""asio-1-12-0"""
+https://github.com/Tencent/tendis.git,tendis,"""2.4.3-rocksdb-v5.13.4"""
+https://github.com/facebook/rocksdb.git,rocksdb,"""v5.13.4"""

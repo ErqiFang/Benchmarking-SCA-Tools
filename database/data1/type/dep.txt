@@ -1,0 +1,345 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------------< org.autogen:type >--------------------------
+[INFO] Building type 1.0.0
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/com/google/guava/guava/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/com/google/guava/guava/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/maven-metadata.xml
+Progress (1): 2.7/4.0 kBProgress (1): 4.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/maven-metadata.xml (4.0 kB at 2.5 kB/s)
+Progress (1): 429 BProgress (2): 429 B | 429 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/com/google/guava/guava/maven-metadata.xml (429 B at 197 B/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/com/google/guava/guava/maven-metadata.xml (429 B at 196 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtend/org.eclipse.xtend.core/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.core/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.core/maven-metadata.xml
+Progress (1): 566 BProgress (2): 566 B | 566 BProgress (3): 566 B | 566 B | 2.7/3.5 kBProgress (3): 566 B | 566 B | 3.5 kB                                        Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.core/maven-metadata.xml (566 B at 1.0 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.core/maven-metadata.xml (566 B at 1.0 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtend/org.eclipse.xtend.core/maven-metadata.xml (3.5 kB at 6.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase/maven-metadata.xml
+Progress (1): 2.7/3.5 kBProgress (1): 3.5 kB    Progress (2): 3.5 kB | 567 BProgress (3): 3.5 kB | 567 B | 567 B                                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase/maven-metadata.xml (3.5 kB at 7.6 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase/maven-metadata.xml (567 B at 1.2 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase/maven-metadata.xml (567 B at 1.1 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext/maven-metadata.xml
+Progress (1): 561 BProgress (2): 561 B | 561 BProgress (3): 561 B | 561 B | 2.7/3.5 kBProgress (3): 561 B | 561 B | 3.5 kB                                        Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext/maven-metadata.xml (3.5 kB at 7.8 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext/maven-metadata.xml (561 B at 1.1 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext/maven-metadata.xml (561 B at 1.1 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.util/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.util/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.util/maven-metadata.xml
+Progress (1): 566 BProgress (2): 566 B | 566 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.util/maven-metadata.xml (566 B at 1.0 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.util/maven-metadata.xml (566 B at 1.0 kB/s)
+Progress (1): 2.7/3.3 kBProgress (1): 3.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.util/maven-metadata.xml (3.3 kB at 3.0 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.ecore/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/maven-metadata.xml
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.ecore/maven-metadata.xml (1.3 kB at 2.6 kB/s)
+Progress (1): 501 BProgress (2): 501 B | 501 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/maven-metadata.xml (501 B at 134 B/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/maven-metadata.xml (501 B at 133 B/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml
+Progress (1): 819 BProgress (2): 819 B | 819 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml (819 B at 192 B/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml (819 B at 192 B/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml
+Progress (1): 819 BProgress (2): 819 B | 819 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml (819 B at 1.3 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml (819 B at 1.3 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml
+Progress (1): 819 BProgress (2): 819 B | 819 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml (819 B at 1.3 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml (819 B at 1.3 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.common/maven-metadata.xml
+Progress (1): 502 BProgress (2): 502 B | 502 BProgress (3): 502 B | 502 B | 1.3 kB                                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.common/maven-metadata.xml (1.3 kB at 2.6 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/maven-metadata.xml (502 B at 859 B/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/maven-metadata.xml (502 B at 838 B/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml
+Progress (1): 820 BProgress (2): 820 B | 820 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml (820 B at 1.3 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20130911-SNAPSHOT/maven-metadata.xml (820 B at 1.3 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml
+Progress (1): 820 BProgress (2): 820 B | 820 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml (820 B at 1.5 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml (820 B at 1.5 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml
+Progress (1): 820 BProgress (2): 820 B | 820 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml (820 B at 1.6 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.common/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml (820 B at 1.6 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.dependencies/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.dependencies/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/maven-metadata.xml
+Progress (1): 850 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/maven-metadata.xml (850 B at 1.9 kB/s)
+Progress (1): 388 BProgress (2): 388 B | 388 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.dependencies/maven-metadata.xml (388 B at 89 B/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.dependencies/maven-metadata.xml (388 B at 89 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/maven-metadata.xml
+Progress (1): 2.7/3.6 kBProgress (1): 3.6 kB    Progress (2): 3.6 kB | 571 BProgress (3): 3.6 kB | 571 B | 571 B                                    Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/maven-metadata.xml (571 B at 1.0 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/maven-metadata.xml (3.6 kB at 6.3 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/maven-metadata.xml (571 B at 1.0 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.ecore.xmi/maven-metadata.xml
+Progress (1): 975 BProgress (2): 975 B | 505 BProgress (3): 975 B | 505 B | 505 B                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.ecore.xmi/maven-metadata.xml (975 B at 2.5 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/maven-metadata.xml (505 B at 1.1 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/maven-metadata.xml (505 B at 1.0 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0.v20130911-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0.v20130911-SNAPSHOT/maven-metadata.xml
+Progress (1): 823 BProgress (2): 823 B | 823 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0.v20130911-SNAPSHOT/maven-metadata.xml (823 B at 1.3 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0.v20130911-SNAPSHOT/maven-metadata.xml (823 B at 1.3 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml
+Progress (1): 823 BProgress (2): 823 B | 823 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml (823 B at 1.3 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140117-SNAPSHOT/maven-metadata.xml (823 B at 1.3 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml
+Progress (1): 823 BProgress (2): 823 B | 823 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml (823 B at 1.3 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.ecore.xmi/2.10.0-v20140514-SNAPSHOT/maven-metadata.xml (823 B at 1.3 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/antlr/antlr-runtime/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/antlr/antlr-runtime/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/maven-metadata.xml
+Progress (1): 282 BProgress (2): 282 B | 282 BProgress (3): 282 B | 282 B | 881 B                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/maven-metadata.xml (881 B at 1.8 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/antlr/antlr-runtime/maven-metadata.xml (282 B at 524 B/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/antlr/antlr-runtime/maven-metadata.xml (282 B at 524 B/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.lib/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.lib/maven-metadata.xml
+Progress (1): 2.7/3.6 kBProgress (2): 2.7/3.6 kB | 565 BProgress (2): 3.6 kB | 565 B    Progress (3): 3.6 kB | 565 B | 565 B                                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/maven-metadata.xml (3.6 kB at 4.0 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.lib/maven-metadata.xml (565 B at 632 B/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtend/org.eclipse.xtend.lib/maven-metadata.xml (565 B at 631 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.common.types/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.common.types/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.common.types/maven-metadata.xml
+Progress (1): 2.7/3.5 kBProgress (1): 3.5 kB    Progress (2): 3.5 kB | 574 BProgress (3): 3.5 kB | 574 B | 574 B                                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/xtext/org.eclipse.xtext.common.types/maven-metadata.xml (3.5 kB at 4.9 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.common.types/maven-metadata.xml (574 B at 798 B/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/xtext/org.eclipse.xtext.common.types/maven-metadata.xml (574 B at 793 B/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.codegen/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/maven-metadata.xml
+Progress (1): 899 BProgress (2): 899 B | 502 BProgress (3): 899 B | 502 B | 502 B                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/emf/org.eclipse.emf.codegen/maven-metadata.xml (899 B at 1.8 kB/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/maven-metadata.xml (502 B at 982 B/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/maven-metadata.xml (502 B at 969 B/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.9.0-v20130930-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.9.0-v20130930-SNAPSHOT/maven-metadata.xml
+Progress (1): 818 BProgress (2): 818 B | 818 B                           Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.9.0-v20130930-SNAPSHOT/maven-metadata.xml (818 B at 996 B/s)
+Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.9.0-v20130930-SNAPSHOT/maven-metadata.xml (818 B at 996 B/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140127-SNAPSHOT/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140127-SNAPSHOT/maven-metadata.xml
+Progress (1): 821 BProgress (2): 821 B | 821 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140127-SNAPSHOT/maven-metadata.xml (821 B at 1.7 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140127-SNAPSHOT/maven-metadata.xml (821 B at 1.5 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140519-SNAPSHOT/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140519-SNAPSHOT/maven-metadata.xml
+Progress (1): 821 BProgress (2): 821 B | 821 B                           Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140519-SNAPSHOT/maven-metadata.xml (821 B at 1.7 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/emf/org.eclipse.emf.codegen/2.10.0-v20140519-SNAPSHOT/maven-metadata.xml (821 B at 1.6 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.runtime/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.runtime/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.runtime/maven-metadata.xml
+Progress (1): 942 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.runtime/maven-metadata.xml (942 B at 1.9 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.osgi/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.osgi/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.osgi/maven-metadata.xml
+Progress (1): 1.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.osgi/maven-metadata.xml (1.0 kB at 2.5 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.common/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.common/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.common/maven-metadata.xml
+Progress (1): 920 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.common/maven-metadata.xml (920 B at 1.9 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.jobs/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.jobs/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.jobs/maven-metadata.xml
+Progress (1): 978 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.jobs/maven-metadata.xml (978 B at 2.0 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.registry/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.registry/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.registry/maven-metadata.xml
+Progress (1): 886 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.registry/maven-metadata.xml (886 B at 1.8 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.preferences/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.preferences/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.preferences/maven-metadata.xml
+Progress (1): 836 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.preferences/maven-metadata.xml (836 B at 1.4 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/osgi/org.osgi.service.prefs/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/maven-metadata.xml
+Progress (1): 371 BProgress (2): 371 B | 371 BProgress (3): 371 B | 371 B | 389 B                                   Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/maven-metadata.xml (371 B at 644 B/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/maven-metadata.xml (371 B at 644 B/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/osgi/org.osgi.service.prefs/maven-metadata.xml (389 B at 675 B/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/1.1.1-SNAPSHOT/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/1.1.1-SNAPSHOT/maven-metadata.xml
+Progress (1): 1.2 kBProgress (2): 1.2 kB | 1.2 kB                             Downloaded from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/1.1.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.9 kB/s)
+Downloaded from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/osgi/org.osgi.service.prefs/1.1.1-SNAPSHOT/maven-metadata.xml (1.2 kB at 1.9 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.contenttype/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.contenttype/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.contenttype/maven-metadata.xml
+Progress (1): 818 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.contenttype/maven-metadata.xml (818 B at 2.0 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.app/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.app/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.equinox.app/maven-metadata.xml
+Progress (1): 746 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.equinox.app/maven-metadata.xml (746 B at 1.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.resources/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.resources/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.resources/maven-metadata.xml
+Progress (1): 922 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.resources/maven-metadata.xml (922 B at 2.1 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.expressions/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.expressions/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.expressions/maven-metadata.xml
+Progress (1): 784 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.expressions/maven-metadata.xml (784 B at 1.9 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.filesystem/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.filesystem/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.filesystem/maven-metadata.xml
+Progress (1): 783 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.filesystem/maven-metadata.xml (783 B at 1.6 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/jdt/org.eclipse.jdt.core/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/jdt/org.eclipse.jdt.core/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/org.eclipse.jdt.core/maven-metadata.xml
+Progress (1): 1.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/org.eclipse.jdt.core/maven-metadata.xml (1.1 kB at 2.3 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.text/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.text/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.text/maven-metadata.xml
+Progress (1): 840 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.text/maven-metadata.xml (840 B at 2.1 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.commands/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.commands/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.commands/maven-metadata.xml
+Progress (1): 784 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.commands/maven-metadata.xml (784 B at 1.7 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/jdt/org.eclipse.jdt.launching/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/org.eclipse.jdt.launching/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/jdt/org.eclipse.jdt.launching/maven-metadata.xml
+Progress (1): 1.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/org.eclipse.jdt.launching/maven-metadata.xml (1.1 kB at 1.4 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.debug.core/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.debug.core/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.debug.core/maven-metadata.xml
+Progress (1): 952 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.debug.core/maven-metadata.xml (952 B at 1.2 kB/s)
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.variables/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.variables/maven-metadata.xml
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/platform/org.eclipse.core.variables/maven-metadata.xml
+Progress (1): 716 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/platform/org.eclipse.core.variables/maven-metadata.xml (716 B at 1.6 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/jdt/org.eclipse.jdt.debug/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/jdt/org.eclipse.jdt.debug/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/org.eclipse.jdt.debug/maven-metadata.xml
+Progress (1): 977 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/org.eclipse.jdt.debug/maven-metadata.xml (977 B at 2.1 kB/s)
+Downloading from sonatype-nexus-snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/equinox/common/maven-metadata.xml
+Downloading from central snapshots: https://oss.sonatype.org/content/repositories/snapshots/org/eclipse/equinox/common/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/equinox/common/maven-metadata.xml
+Progress (1): 383 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/equinox/common/maven-metadata.xml (383 B at 920 B/s)
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ type ---
+[INFO] org.autogen:type:jar:1.0.0
+[INFO] +- org.springframework:spring-web:jar:5.3.7:compile
+[INFO] |  +- org.springframework:spring-beans:jar:5.3.7:compile
+[INFO] |  \- org.springframework:spring-core:jar:5.3.7:compile
+[INFO] |     \- org.springframework:spring-jcl:jar:5.3.7:compile
+[INFO] +- org.springframework:spring-web:pom:5.3.7:compile
+[INFO] +- org.camunda.bpm:camunda-engine:test-jar:tests:7.16.0:compile
+[INFO] |  +- org.camunda.bpm.model:camunda-bpmn-model:jar:7.16.0:compile
+[INFO] |  |  \- org.camunda.bpm.model:camunda-xml-model:jar:7.16.0:compile
+[INFO] |  +- org.camunda.bpm.model:camunda-cmmn-model:jar:7.16.0:compile
+[INFO] |  +- org.camunda.bpm.dmn:camunda-engine-dmn:jar:7.16.0:compile
+[INFO] |  |  +- org.camunda.commons:camunda-commons-utils:jar:1.10.0:compile
+[INFO] |  |  +- org.camunda.bpm.model:camunda-dmn-model:jar:7.16.0:compile
+[INFO] |  |  +- org.camunda.bpm.dmn:camunda-engine-feel-api:jar:7.16.0:compile
+[INFO] |  |  +- org.camunda.bpm.dmn:camunda-engine-feel-juel:jar:7.16.0:compile
+[INFO] |  |  +- org.camunda.bpm.dmn:camunda-engine-feel-scala:jar:7.16.0:compile
+[INFO] |  |  \- org.camunda.feel:feel-engine:jar:scala-shaded:1.13.1:compile
+[INFO] |  +- org.camunda.commons:camunda-commons-logging:jar:1.10.0:compile
+[INFO] |  |  \- org.slf4j:slf4j-api:jar:1.7.26:compile
+[INFO] |  +- org.camunda.commons:camunda-commons-typed-values:jar:7.16.0:compile
+[INFO] |  +- org.mybatis:mybatis:jar:3.5.6:compile
+[INFO] |  +- joda-time:joda-time:jar:2.1:compile
+[INFO] |  +- org.camunda.connect:camunda-connect-core:jar:1.5.2:compile
+[INFO] |  \- org.camunda.connect:camunda-connect-connectors-all:jar:1.5.2:runtime
+[INFO] +- org.jboss.weld.examples.jsf.translator:weld-jsf-translator-ejb:ejb:4.0.2.Final:compile
+[INFO] +- org.jboss.weld.examples.jsf.translator:weld-jsf-translator-war:war:4.0.2.Final:compile
+[INFO] +- org.jboss.weld.examples.jsf.translator:weld-jsf-translator-ear:ear:4.0.2.Final:compile
+[INFO] +- org.tranql:tranql-connector-ra:rar:1.7:compile
+[INFO] +- org.eclipse.xtend:xtend-maven-plugin:maven-plugin:2.7.0:compile
+[INFO] |  +- com.google.guava:guava:jar:14.0.1:compile (version selected from constraint [10.0.1,14.0.1])
+[INFO] |  +- org.eclipse.xtend:org.eclipse.xtend.core:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  |  +- org.eclipse.xtext:org.eclipse.xtext.xbase:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  |  |  +- org.eclipse.xtext:org.eclipse.xtext:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  |  |  |  \- com.ibm.icu:icu4j:jar:52.1:compile
+[INFO] |  |  |  \- org.eclipse.xtext:org.eclipse.xtext.common.types:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  |  \- org.eclipse.equinox:common:jar:3.6.200-v20130402-1505:compile (version selected from constraint [3.6,))
+[INFO] |  +- org.eclipse.xtext:org.eclipse.xtext.xbase.lib:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  +- org.eclipse.xtext:org.eclipse.xtext.util:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  |  \- org.eclipse.xtext:org.eclipse.xtext.dependencies:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  +- org.eclipse.xtend:org.eclipse.xtend.lib:jar:2.7.0:compile (version selected from constraint [2.7.0,2.7.0])
+[INFO] |  |  \- org.eclipse.xtend:org.eclipse.xtend.lib.macro:jar:2.7.0:compile
+[INFO] |  +- org.eclipse.emf:org.eclipse.emf.common:jar:2.26.0:compile (version selected from constraint (2.8,3.0))
+[INFO] |  +- org.eclipse.emf:org.eclipse.emf.ecore:jar:2.28.0:compile (version selected from constraint (2.8,3.0))
+[INFO] |  +- com.google.inject:guice:jar:3.0:compile
+[INFO] |  |  +- javax.inject:javax.inject:jar:1:compile
+[INFO] |  |  \- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- log4j:log4j:jar:1.2.16:compile
+[INFO] |  +- org.ow2.asm:asm-commons:jar:5.0.1:compile
+[INFO] |  |  \- org.ow2.asm:asm-tree:jar:5.0.1:compile
+[INFO] |  |     \- org.ow2.asm:asm:jar:5.0.1:compile
+[INFO] |  +- org.apache.maven:maven-core:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-model:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-settings:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-settings-builder:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-repository-metadata:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-artifact:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-plugin-api:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-model-builder:jar:3.2.1:compile
+[INFO] |  |  +- org.apache.maven:maven-aether-provider:jar:3.2.1:compile
+[INFO] |  |  |  \- org.eclipse.aether:aether-spi:jar:0.9.0.M2:compile
+[INFO] |  |  +- org.eclipse.aether:aether-impl:jar:0.9.0.M2:compile
+[INFO] |  |  +- org.eclipse.aether:aether-api:jar:0.9.0.M2:compile
+[INFO] |  |  +- org.eclipse.aether:aether-util:jar:0.9.0.M2:compile
+[INFO] |  |  +- org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.0.0.M5:compile
+[INFO] |  |  |  +- javax.enterprise:cdi-api:jar:1.0:compile
+[INFO] |  |  |  |  \- javax.annotation:jsr250-api:jar:1.0:compile
+[INFO] |  |  |  +- org.sonatype.sisu:sisu-guice:jar:no_aop:3.1.0:compile
+[INFO] |  |  |  \- org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.0.0.M5:compile
+[INFO] |  |  +- org.codehaus.plexus:plexus-interpolation:jar:1.19:compile
+[INFO] |  |  +- org.codehaus.plexus:plexus-utils:jar:3.0.17:compile
+[INFO] |  |  +- org.codehaus.plexus:plexus-classworlds:jar:2.5.1:compile
+[INFO] |  |  +- org.codehaus.plexus:plexus-component-annotations:jar:1.5.5:compile
+[INFO] |  |  \- org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3:compile
+[INFO] |  |     \- org.sonatype.plexus:plexus-cipher:jar:1.4:compile
+[INFO] |  +- org.eclipse.emf:org.eclipse.emf.ecore.xmi:jar:2.17.0:compile (version selected from constraint (2.8,3.0))
+[INFO] |  +- org.antlr:antlr-runtime:jar:3.2:compile (version selected from constraint [3.2,3.2])
+[INFO] |  \- org.eclipse.emf:org.eclipse.emf.codegen:jar:2.22.0:runtime (version selected from constraint (2.8,3.0))
+[INFO] |     +- org.eclipse.platform:org.eclipse.core.runtime:jar:3.25.0:runtime (version selected from constraint [3.6.0,4.0.0))
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.osgi:jar:3.18.0:runtime (version selected from constraint [3.17.0,4.0.0))
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.equinox.common:jar:3.16.100:runtime (version selected from constraint [3.16.0,))
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.core.jobs:jar:3.13.0:runtime (version selected from constraint [3.13.0,4.0.0))
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.equinox.registry:jar:3.11.100:runtime (version selected from constraint [3.11.0,4.0.0))
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.equinox.preferences:jar:3.10.1:runtime (version selected from constraint [3.10.0,4.0.0))
+[INFO] |     |  |  \- org.osgi:org.osgi.service.prefs:jar:1.1.2:runtime (version selected from constraint [1.1.0,1.2.0))
+[INFO] |     |  |     \- org.osgi:osgi.annotation:jar:8.0.1:runtime
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.core.contenttype:jar:3.8.100:runtime (version selected from constraint [3.8.0,4.0.0))
+[INFO] |     |  \- org.eclipse.platform:org.eclipse.equinox.app:jar:1.6.100:runtime (version selected from constraint [1.6.0,))
+[INFO] |     +- org.eclipse.platform:org.eclipse.core.resources:jar:3.17.0:runtime (version selected from constraint [3.6.0,4.0.0))
+[INFO] |     |  +- org.eclipse.platform:org.eclipse.core.expressions:jar:3.8.100:runtime (version selected from constraint [3.2.0,4.0.0))
+[INFO] |     |  \- org.eclipse.platform:org.eclipse.core.filesystem:jar:1.9.400:runtime (version selected from constraint [1.3.0,2.0.0))
+[INFO] |     +- org.eclipse.jdt:org.eclipse.jdt.core:jar:3.30.0:runtime (version selected from constraint [3.6.0,4.0.0))
+[INFO] |     +- org.eclipse.jdt:org.eclipse.jdt.launching:jar:3.19.600:runtime (version selected from constraint [3.5.0,4.0.0))
+[INFO] |     |  +- org.eclipse.jdt:org.eclipse.jdt.debug:jar:3.19.200:runtime (version selected from constraint [3.17.0,4.0.0))
+[INFO] |     |  \- org.eclipse.platform:org.eclipse.core.variables:jar:3.5.100:runtime (version selected from constraint [3.2.0,4.0.0))
+[INFO] |     +- org.eclipse.platform:org.eclipse.debug.core:jar:3.19.100:runtime (version selected from constraint [3.6.0,4.0.0))
+[INFO] |     \- org.eclipse.platform:org.eclipse.text:jar:3.12.100:runtime (version selected from constraint [3.5.0,4.0.0))
+[INFO] |        \- org.eclipse.platform:org.eclipse.core.commands:jar:3.10.200:runtime (version selected from constraint [3.5.0,4.0.0))
+[INFO] +- org.springframework.boot:spring-boot-starter-log4j2:javadoc:javadoc:2.6.1:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-slf4j-impl:jar:2.14.1:compile
+[INFO] |  |  \- org.apache.logging.log4j:log4j-api:jar:2.14.1:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-core:jar:2.14.1:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-jul:jar:2.14.1:compile
+[INFO] |  \- org.slf4j:jul-to-slf4j:jar:1.7.32:compile
+[INFO] \- io.apiman:apiman-distro-tools:zip:2.2.0.Final:compile
+[INFO]    \- io.apiman:apiman-migration-assistant:jar:shaded:2.2.0.Final:compile
+[INFO]       +- info.picocli:picocli:jar:4.6.1:compile
+[INFO]       +- info.picocli:picocli-codegen:jar:4.6.1:compile
+[INFO]       +- com.squareup.okhttp:okhttp:jar:2.7.5:compile
+[INFO]       |  \- com.squareup.okio:okio:jar:1.6.0:compile
+[INFO]       +- io.apiman:apiman-manager-api-beans:jar:2.2.0.Final:compile
+[INFO]       |  \- io.apiman:apiman-common-util:jar:2.2.0.Final:compile
+[INFO]       +- com.fasterxml.jackson.core:jackson-databind:jar:2.12.5:compile
+[INFO]       |  \- com.fasterxml.jackson.core:jackson-annotations:jar:2.12.5:compile
+[INFO]       \- com.fasterxml.jackson.core:jackson-core:jar:2.12.5:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  43.547 s
+[INFO] Finished at: 2022-09-05T19:26:41+08:00
+[INFO] ------------------------------------------------------------------------

@@ -1,0 +1,4 @@
+url,name,tag
+https://github.com/libjpeg-turbo/libjpeg-turbo.git,libjpeg-turbo,"""2.0.6"""
+https://github.com/mstorsjo/fdk-aac.git,fdk-aac,"""v2.0.2"""
+https://github.com/matanui159/ReplaySorcery.git,ReplaySorcery,"""0.3.1"""

@@ -1,0 +1,4718 @@
+{
+ "libpcap.so.1.5.2@libpcap-1.5.2": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.5.2"
+   ]
+  }
+ ],
+ "libpcap.so.1.10.0@libpcap-1.10.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.10.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.5.3@libpcap-1.5.3": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.5.3"
+   ]
+  }
+ ],
+ "libpcap.so.1.3.0-PRE-GIT@libpcap-1.3-bp": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.3-bp"
+   ]
+  }
+ ],
+ "libpcap.so.1.6.0@libpcap-1.6.0-bp": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.6.0-bp"
+   ]
+  }
+ ],
+ "libpcap.so.1.7.0@libpcap-1.7.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.7.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.7.2@libpcap-1.7.2": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.7.2"
+   ]
+  }
+ ],
+ "libpcap.so.1.1.1@libpcap-1.1.1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.1.1"
+   ]
+  }
+ ],
+ "libpcap.so.1.1@libpcap-1.1.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.1.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.8.0-PRE-GIT@libpcap-1.8.0-bp": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.8.0-bp"
+   ]
+  }
+ ],
+ "libpcap.so.1.6.1@libpcap-1.6.1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.6.1"
+   ]
+  }
+ ],
+ "libpcap.so.1.3.0@libpcap-1.3.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.3.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.7.0-PRE-GIT@libpcap-1.7.0-bp": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.7.0-bp"
+   ]
+  }
+ ],
+ "libpcap.so.1.2.1@libpcap-1.2.1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.2.1"
+   ]
+  }
+ ],
+ "libpcap.so.1.10.0-PRE-GIT@libpcap-1.10-bp": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.10-bp"
+   ]
+  }
+ ],
+ "libpcap.so.1.9.0-PRE-GIT@libpcap-1.9-bp": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.9-bp"
+   ]
+  }
+ ],
+ "libpcap.so.1.10.1@libpcap-1.10.1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.10.1"
+   ]
+  }
+ ],
+ "libpcap.so.1.5.0-PRE-GIT@libpcap-1.5.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.5.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.9.1@libpcap-1.9.1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.9.1"
+   ]
+  }
+ ],
+ "libpcap.so.1.9.0-PRE-GIT@libpcap-1.9.0-rc1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.9.0-rc1"
+   ]
+  }
+ ],
+ "libpcap.so.1.4.0@libpcap-1.4.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.4.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.9.0rc2@libpcap-1.9.0rc2": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.9.0rc2"
+   ]
+  }
+ ],
+ "libpcap.so.1.7.3@libpcap-1.7.3": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.7.3"
+   ]
+  }
+ ],
+ "libpcap.so.1.7.4@libpcap-1.7.4": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.7.4"
+   ]
+  }
+ ],
+ "libpcap.so.1.5.1@libpcap-1.5.1": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.5.1"
+   ]
+  }
+ ],
+ "libpcap.so.1.6.2@libpcap-1.6.2": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.6.2"
+   ]
+  }
+ ],
+ "libpcap.so.1.9.0@libpcap-1.9.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.9.0"
+   ]
+  }
+ ],
+ "libpcap.so.1.8.0@libpcap-1.8.0": [
+  {
+   "name": "libpcap",
+   "url": "https://github.com/the-tcpdump-group/libpcap.git",
+   "tag": [
+    "libpcap-1.8.0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_68_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_68_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_69_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_69_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_69_1": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_69_1"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_70_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_70_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_71_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_71_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_71_1": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_71_1"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_72_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_72_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_73_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_73_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_74_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_74_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_75_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_75_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_76_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_76_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_76_1": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_76_1"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_77_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_77_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_78_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_78_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_79_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_79_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_79_1": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_79_1"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_80_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_80_0"
+   ]
+  }
+ ],
+ "curl-armv7@curl-7_81_0": [
+  {
+   "name": "curl",
+   "url": "https://github.com/curl/curl.git",
+   "tag": [
+    "curl-7_81_0"
+   ]
+  }
+ ],
+ "opj_dump@v2.3.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.0"
+   ]
+  }
+ ],
+ "opj_compress@v2.2.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.2.0"
+   ]
+  }
+ ],
+ "opj_compress@v2.1.2": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.2"
+   ]
+  }
+ ],
+ "opj_compress@v2.4.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.4.0"
+   ]
+  }
+ ],
+ "opj_decompress@v2.3.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.1"
+   ]
+  }
+ ],
+ "libopenjp2.2.3.0.dylib@v2.3.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.0"
+   ]
+  }
+ ],
+ "opj_compress@v2.3.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.0"
+   ]
+  }
+ ],
+ "opj_decompress@v2.1.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.1"
+   ]
+  }
+ ],
+ "libopenjp2.2.4.0.dylib@v2.4.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.4.0"
+   ]
+  }
+ ],
+ "opj_compress@v2.1.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.1"
+   ]
+  }
+ ],
+ "opj_decompress@v2.4.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.4.0"
+   ]
+  }
+ ],
+ "opj_compress@v2.3.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.1"
+   ]
+  }
+ ],
+ "opj_dump@v2.4.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.4.0"
+   ]
+  }
+ ],
+ "opj_dump@v2.2.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.2.0"
+   ]
+  }
+ ],
+ "libopenjp2.2.1.2.dylib@v2.1.2": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.2"
+   ]
+  }
+ ],
+ "libopenjp2.2.1.1.dylib@v2.1.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.1"
+   ]
+  }
+ ],
+ "opj_decompress@v2.3.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.0"
+   ]
+  }
+ ],
+ "libopenjp2.2.3.1.dylib@v2.3.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.1"
+   ]
+  }
+ ],
+ "opj_dump@v2.3.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.3.1"
+   ]
+  }
+ ],
+ "libopenjp2.2.2.0.dylib@v2.2.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.2.0"
+   ]
+  }
+ ],
+ "opj_dump@v2.1.2": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.2"
+   ]
+  }
+ ],
+ "opj_decompress@v2.2.0": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.2.0"
+   ]
+  }
+ ],
+ "opj_decompress@v2.1.2": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.2"
+   ]
+  }
+ ],
+ "opj_dump@v2.1.1": [
+  {
+   "name": "openjpeg",
+   "url": "https://github.com/uclouvain/openjpeg.git",
+   "tag": [
+    "v2.1.1"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-6-5": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-6-5"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-9": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-9"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-9-1": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-9-1"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-10-1": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-10-1"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-10-2": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-10-2"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-10-3": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-10-3"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-10-0": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-10-0"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-8-1": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-8-1"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-7-1": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-7-1"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-11-1": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-11-1"
+   ]
+  }
+ ],
+ "freetype.dll@VER-2-10-4": [
+  {
+   "name": "freetype",
+   "url": "https://github.com/freetype/freetype.git",
+   "tag": [
+    "VER-2-10-4"
+   ]
+  }
+ ],
+ "protoc-v3.0.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.0.0"
+   ]
+  }
+ ],
+ "protoc-v3.0.0-beta-2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.0.0-beta-2"
+   ]
+  }
+ ],
+ "protoc-v3.0.0-beta-3": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.0.0-beta-3"
+   ]
+  }
+ ],
+ "protoc-v3.0.0-beta-3.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.0.0-beta-3.1"
+   ]
+  }
+ ],
+ "protoc-v3.0.0-beta-4": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.0.0-beta-4"
+   ]
+  }
+ ],
+ "protoc-v3.0.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.0.2"
+   ]
+  }
+ ],
+ "protoc-v3.1.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.1.0"
+   ]
+  }
+ ],
+ "protoc-v3.10.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.10.0"
+   ]
+  }
+ ],
+ "protoc-v3.10.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.10.1"
+   ]
+  }
+ ],
+ "protoc-v3.11.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.11.0"
+   ]
+  }
+ ],
+ "protoc-v3.11.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.11.1"
+   ]
+  }
+ ],
+ "protoc-v3.11.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.11.2"
+   ]
+  }
+ ],
+ "protoc-v3.11.3": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.11.3"
+   ]
+  }
+ ],
+ "protoc-v3.11.4": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.11.4"
+   ]
+  }
+ ],
+ "protoc-v3.12.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.12.0"
+   ]
+  }
+ ],
+ "protoc-v3.12.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.12.1"
+   ]
+  }
+ ],
+ "protoc-v3.12.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.12.2"
+   ]
+  }
+ ],
+ "protoc-v3.12.3": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.12.3"
+   ]
+  }
+ ],
+ "protoc-v3.12.4": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.12.4"
+   ]
+  }
+ ],
+ "protoc-v3.13.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.13.0"
+   ]
+  }
+ ],
+ "protoc-v3.14.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.14.0"
+   ]
+  }
+ ],
+ "protoc-v3.15.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.0"
+   ]
+  }
+ ],
+ "protoc-v3.15.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.1"
+   ]
+  }
+ ],
+ "protoc-v3.15.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.2"
+   ]
+  }
+ ],
+ "protoc-v3.15.3": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.3"
+   ]
+  }
+ ],
+ "protoc-v3.15.4": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.4"
+   ]
+  }
+ ],
+ "protoc-v3.15.5": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.5"
+   ]
+  }
+ ],
+ "protoc-v3.15.6": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.6"
+   ]
+  }
+ ],
+ "protoc-v3.15.7": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.7"
+   ]
+  }
+ ],
+ "protoc-v3.15.8": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.15.8"
+   ]
+  }
+ ],
+ "protoc-v3.16.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.16.0"
+   ]
+  }
+ ],
+ "protoc-v3.16.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.16.1"
+   ]
+  }
+ ],
+ "protoc-v3.17.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.17.0"
+   ]
+  }
+ ],
+ "protoc-v3.17.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.17.1"
+   ]
+  }
+ ],
+ "protoc-v3.17.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.17.2"
+   ]
+  }
+ ],
+ "protoc-v3.17.3": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.17.3"
+   ]
+  }
+ ],
+ "protoc-v3.18.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.18.0"
+   ]
+  }
+ ],
+ "protoc-v3.18.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.18.1"
+   ]
+  }
+ ],
+ "protoc-v3.18.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.18.2"
+   ]
+  }
+ ],
+ "protoc-v3.19.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.19.0"
+   ]
+  }
+ ],
+ "protoc-v3.19.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.19.1"
+   ]
+  }
+ ],
+ "protoc-v3.19.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.19.2"
+   ]
+  }
+ ],
+ "protoc-v3.19.3": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.19.3"
+   ]
+  }
+ ],
+ "protoc-v3.19.4": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.19.4"
+   ]
+  }
+ ],
+ "protoc-v3.2.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.2.0"
+   ]
+  }
+ ],
+ "protoc-v3.2.0rc2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.2.0rc2"
+   ]
+  }
+ ],
+ "protoc-v3.3.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.3.0"
+   ]
+  }
+ ],
+ "protoc-v3.4.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.4.0"
+   ]
+  }
+ ],
+ "protoc-v3.5.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.5.0"
+   ]
+  }
+ ],
+ "protoc-v3.5.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.5.1"
+   ]
+  }
+ ],
+ "protoc-v3.6.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.6.0"
+   ]
+  }
+ ],
+ "protoc-v3.6.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.6.1"
+   ]
+  }
+ ],
+ "protoc-v3.7.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.7.0"
+   ]
+  }
+ ],
+ "protoc-v3.7.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.7.1"
+   ]
+  }
+ ],
+ "protoc-v3.8.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.8.0"
+   ]
+  }
+ ],
+ "protoc-v3.9.0": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.9.0"
+   ]
+  }
+ ],
+ "protoc-v3.9.1": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.9.1"
+   ]
+  }
+ ],
+ "protoc-v3.9.2": [
+  {
+   "name": "protobuf",
+   "url": "https://github.com/protocolbuffers/protobuf.git",
+   "tag": [
+    "v3.9.2"
+   ]
+  }
+ ],
+ "jbig2dec@0.17": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.17"
+   ]
+  }
+ ],
+ "jbig2dec@0.16": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.16"
+   ]
+  }
+ ],
+ "jbig2dec@0.12": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.12"
+   ]
+  }
+ ],
+ "jbig2dec@0.14": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.14"
+   ]
+  }
+ ],
+ "jbig2dec@0.11": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.11"
+   ]
+  }
+ ],
+ "jbig2dec@0.18": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.18"
+   ]
+  }
+ ],
+ "jbig2dec@0.15": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.15"
+   ]
+  }
+ ],
+ "jbig2dec@0.13": [
+  {
+   "name": "jbig2dec",
+   "url": "https://github.com/ArtifexSoftware/jbig2dec.git",
+   "tag": [
+    "0.13"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1o"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1r"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0a"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0j"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0p"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7c"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8t"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1e"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0b"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2f"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1j"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0l"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2b"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0e"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2i"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8p"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1f"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0n"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7m"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1t"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2n"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2r"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8r"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0s"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8w": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8w"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1i"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0c"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7h"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0h"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0t"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8s"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8n"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8y": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8y"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8m"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7d"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1q"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8x": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8x"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7k"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1a"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0f"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1h"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1p"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2o"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8u": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8u"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0g"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2h"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1g"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2l"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0l"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0e"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0g"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2q"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2d"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2m"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2t"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1c"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7f"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0k"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1g"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0d"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7g"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7b"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2s"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8v": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8v"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1u": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1u"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1n"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1l"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1b"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7e"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0h"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1k"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0q"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1d"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0b"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1s"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0k"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1m"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2j"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0i"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1b"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2g"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2k"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0d"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7i"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1e"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1d"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2a"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0c"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2c"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2p"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1f"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2u": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2u"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0f"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8o"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_1a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1a"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0o"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0m"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0r"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_8q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8q"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7j"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7a"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_2e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2e"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_0j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0j"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_0_1c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1c"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0a"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_0_9_7l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7l"
+   ]
+  }
+ ],
+ "libssl@OpenSSL_1_1_0i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0i"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2h"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7f"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8r"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0b"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1t"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1q"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1k"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0r"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2q"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0k"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0i"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7j"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2e"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8o"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0l"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1e"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1d"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8m"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7c"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8t"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1m"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0j"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1l"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2c"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7l"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0s"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0i"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7a"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2s"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1g"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1i"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7g"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0a"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2g"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2t"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0o"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0a"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2n"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7i"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8n"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7e"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2j"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0c"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0k"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0h"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0f"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0h"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1s"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0n"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1c"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1a"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0g"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1e"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0e"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1h"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8q"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2k"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2p"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2r"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0q": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0q"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0p"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1f"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1p"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2b"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2d"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1n": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1n"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8x": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8x"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2u": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2u"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1a"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2f"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8s": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8s"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2i": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2i"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0f"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7d"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8p": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8p"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0c"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0l"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1o"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1r": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1r"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7m"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0d"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1b"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2l": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2l"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1u": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1u"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2o": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2o"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1d"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0b"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1c": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1c"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0d": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0d"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1g"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2a": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2a"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1j"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0g": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0g"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_2m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_2m"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8w": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8w"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8u": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8u"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0e": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0e"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_1b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_1b"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8y": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8y"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7h": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7h"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_8v": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_8v"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7k": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7k"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0m": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0m"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_0_9_7b": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_0_9_7b"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_0j": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_0j"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_0_0t": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_0_0t"
+   ]
+  }
+ ],
+ "libcrypto@OpenSSL_1_1_1f": [
+  {
+   "name": "openssl",
+   "url": "https://github.com/openssl/openssl.git",
+   "tag": [
+    "OpenSSL_1_1_1f"
+   ]
+  }
+ ],
+ "cjson.dll@v1.0.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.0.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.0.1": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.0.1"
+   ]
+  }
+ ],
+ "cjson.dll@v1.0.2": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.0.2"
+   ]
+  }
+ ],
+ "cjson.dll@v1.1.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.1.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.2.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.2.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.2.1": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.2.1"
+   ]
+  }
+ ],
+ "cjson.dll@v1.3.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.3.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.3.1": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.3.1"
+   ]
+  }
+ ],
+ "cjson.dll@v1.3.2": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.3.2"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.1": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.1"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.2": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.2"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.3": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.3"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.4": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.4"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.5": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.5"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.6": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.6"
+   ]
+  }
+ ],
+ "cjson.dll@v1.4.7": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.4.7"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.1": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.1"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.2": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.2"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.3": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.3"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.4": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.4"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.5": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.5"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.6": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.6"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.7": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.7"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.8": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.8"
+   ]
+  }
+ ],
+ "cjson.dll@v1.5.9": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.5.9"
+   ]
+  }
+ ],
+ "cjson.dll@v1.6.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.6.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.0": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.0"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.1": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.1"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.10": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.10"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.11": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.11"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.12": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.12"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.13": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.13"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.14": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.14"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.15": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.15"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.2": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.2"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.3": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.3"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.4": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.4"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.5": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.5"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.6": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.6"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.7": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.7"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.8": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.8"
+   ]
+  }
+ ],
+ "cjson.dll@v1.7.9": [
+  {
+   "name": "cJSON",
+   "url": "https://github.com/DaveGamble/cJSON.git",
+   "tag": [
+    "v1.7.9"
+   ]
+  }
+ ],
+ "sqlite@version-3.29.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.29.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.25.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.25.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.15.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.15.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.8": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.8"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.13": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.13"
+   ]
+  }
+ ],
+ "sqlite@version-3.27.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.27.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.19.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.19.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.32.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.32.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.12.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.12.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.13.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.13.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.25.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.25.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.7.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.7.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.12.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.12.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.12": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.12"
+   ]
+  }
+ ],
+ "sqlite@version-3.22.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.22.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.7.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.7.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.7": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.7"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.8.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.8.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.19.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.19.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.16.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.16.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.16.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.16.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.9.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.9.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.9": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.9"
+   ]
+  }
+ ],
+ "sqlite@version-3.16.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.16.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.17.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.17.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.8.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.8.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.21.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.21.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.6.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.6.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.23.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.23.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.14.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.14.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.6.10": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.6.10"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.11": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.11"
+   ]
+  }
+ ],
+ "sqlite@version-3.10.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.10.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.11": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.11"
+   ]
+  }
+ ],
+ "sqlite@version-3.23.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.23.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.7.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.7.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.16": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.16"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.14.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.14.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.26.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.26.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.6.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.6.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.14.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.14.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.15.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.15.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.30.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.30.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.20.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.20.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.27.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.27.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.19.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.19.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.15.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.15.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.15.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.15.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.16.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.16.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.4.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.4.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.32.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.32.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.32.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.32.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.5": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.5"
+   ]
+  }
+ ],
+ "sqlite@version-3.25.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.25.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.30.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.30.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.9.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.9.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.4": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.4"
+   ]
+  }
+ ],
+ "sqlite@version-3.6.15": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.6.15"
+   ]
+  }
+ ],
+ "sqlite@version-3.11.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.11.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.0.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.0.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.10.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.10.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.19.4": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.19.4"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.11.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.11.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.7": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.7"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.20.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.20.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.15.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.15.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.10.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.10.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.12.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.12.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.28.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.28.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.14": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.14"
+   ]
+  }
+ ],
+ "sqlite@version-3.18.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.18.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.9": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.9"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.10": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.10"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.4.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.4.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.23.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.23.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.7.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.7.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.18.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.18.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.10.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.10.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.32.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.32.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.17": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.17"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.16.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.16.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.5": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.5"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.10": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.10"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.0.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.0.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.11.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.11.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.8.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.8.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.9.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.9.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.9.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.9.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.4.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.4.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.14.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.14.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.6.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.6.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.10.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.10.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.6": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.6"
+   ]
+  }
+ ],
+ "sqlite@version-3.31.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.31.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.25.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.25.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.24.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.24.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.7.4": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.7.4"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.6": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.6"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.6.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.6.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.8": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.8"
+   ]
+  }
+ ],
+ "sqlite@version-3.7.15": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.7.15"
+   ]
+  }
+ ],
+ "sqlite@version-3.18.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.18.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.3.1": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.3.1"
+   ]
+  }
+ ],
+ "sqlite@version-3.12.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.12.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.19.3": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.19.3"
+   ]
+  }
+ ],
+ "sqlite@version-3.27.2": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.27.2"
+   ]
+  }
+ ],
+ "sqlite@version-3.31.0": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.31.0"
+   ]
+  }
+ ],
+ "sqlite@version-3.8.4": [
+  {
+   "name": "sqlite",
+   "url": "https://github.com/sqlite/sqlite.git",
+   "tag": [
+    "version-3.8.4"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+url,name,tag
+https://github.com/GNOME/libxml2.git,libxml2,"""v2.9.12"""
+https://github.com/clamwin/clamav-win32.git,clamav-win32,"""v0.103.5"""
+https://github.com/PhilipHazel/pcre2.git,pcre2,"""pcre2-10.39"""
+https://github.com/json-c/json-c.git,json-c,"""json-c-0.15-20200726"""
+https://github.com/kornelski/7z.git,7z,"""9.20"""
+https://sourceware.org/git/bzip2.git,bzip2,"""bzip2-1.0.8"""
+https://github.com/madler/zlib.git,zlib,"""v1.2.11"""
+https://github.com/openssl/openssl.git,openssl,"""OpenSSL_1_1_1m"""

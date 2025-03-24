@@ -1,0 +1,5 @@
+url,name,tag
+https://github.com/vslavik/winsparkle.git,winsparkle,"""v0.7.0"""
+https://github.com/libexpat/libexpat.git,libexpat,"""R_2_2_9"""
+https://github.com/wxWidgets/wxWidgets.git,wxWidgets,"""v3.1.1-rc"""
+https://github.com/openssl/openssl.git,openssl,"""OpenSSL_1_0_2u"""

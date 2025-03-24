@@ -1,0 +1,8 @@
+url,name,tag
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-rc"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-beta.0-rc"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-beta.0"""
+https://github.com/DaveGamble/cJSON.git,cJSON,"""v1.7.8"""
+https://github.com/gabime/spdlog.git,spdlog,"""v0.17.0"""
+https://github.com/libusb/libusb.git,libusb,"""v1.0.22"""

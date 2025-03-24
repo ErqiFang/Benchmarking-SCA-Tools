@@ -1,0 +1,8 @@
+url,name,tag
+https://github.com/ocornut/imgui.git,imgui,"""v1.72b"""
+https://github.com/libjpeg-turbo/libjpeg-turbo.git,libjpeg-turbo,"""2.0.1"""
+https://github.com/glfw/glfw.git,glfw,"""3.2.1"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-rc"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-beta.0-rc"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-beta.0"""

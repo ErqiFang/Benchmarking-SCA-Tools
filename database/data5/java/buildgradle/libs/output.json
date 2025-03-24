@@ -1,0 +1,15 @@
+{
+  "task_info": {
+    "tool_version": "v3.0.5",
+    "app_name": "libs",
+    "size": 0,
+    "start_time": "2024-12-29 16:33:40",
+    "end_time": "2024-12-29 16:33:40",
+    "cost_time": 0.2651744
+  },
+  "id": "56867593279799296",
+  "direct": true,
+  "paths": [
+    "libs\\output.json"
+  ]
+}

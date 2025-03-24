@@ -1,0 +1,214 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.attackscenario5</groupId>
+    <artifactId>mavenproject</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>sharedlibraries</artifactId>
+  
+  <dependencies>
+	  	<!-- dependency 1 -->
+	  <dependency>
+		  <groupId>${junit.groupId}</groupId>
+		  <artifactId>junit</artifactId>
+		  <version>4.12</version>
+	  </dependency>
+	  
+	  <!-- dependency 2 -->
+	  <dependency>
+		  <groupId>${guava.groupId}</groupId>
+    	  <artifactId>guava</artifactId>
+    	  <version>24.1.1-jre</version>
+	  </dependency>
+	  
+	  <!-- dependency 3 -->
+	  <dependency>
+		  <groupId>${scala-library.groupId}</groupId>
+    	  <artifactId>scala-library</artifactId>
+		  <version>2.13.0</version>
+	  </dependency>
+	  
+	  <!-- dependency 4 -->
+	  <dependency>
+		  <groupId>${kotlin-stdlib.groupId}</groupId>
+		  <artifactId>kotlin-stdlib</artifactId>
+		  <version>0.6.22</version>
+	  </dependency>
+	  
+	  <!-- dependency 5 -->
+	  <dependency>
+		  <groupId>${jackson-databind.groupId}</groupId>
+    	  <artifactId>jackson-databind</artifactId>
+    	  <version>2.13.1</version>
+	  </dependency>
+	  
+	  <!-- dependency 6 -->
+	  <dependency>
+		  <groupId>${logback-classic.groupId}</groupId>
+    	  <artifactId>logback-classic</artifactId>
+    	  <version>1.1.11</version>
+	  </dependency>
+	  
+	  <!-- dependency 7 -->
+	  <dependency>
+		  <groupId>${commons-io.groupId}</groupId>
+    	  <artifactId>commons-io</artifactId>
+    	  <version>2.4</version>
+	  </dependency>
+	  
+	  <!-- dependency 8 -->
+	  <dependency>
+		  <groupId>${gson.groupId}</groupId>
+    	  <artifactId>gson</artifactId>
+    	  <version>2.8.6</version>
+	  </dependency>
+	  
+	  <!-- dependency 9 -->
+	  <dependency>
+		  <groupId>${clojure.groupId}</groupId>
+    	  <artifactId>clojure</artifactId>
+    	  <version>1.11.1</version>
+	  </dependency>
+	  
+	  <!-- dependency 10 -->
+	  <dependency>
+		  <groupId>${log4j-core.groupId}</groupId>
+    	  <artifactId>log4j-core</artifactId>
+    	  <version>2.17.0</version>
+	  </dependency>
+	  
+	  <!-- dependency 11 -->
+	  <dependency>
+		  <groupId>${spring-context.groupId}</groupId>
+    	  <artifactId>spring-context</artifactId>
+    	  <version>5.3.12</version>
+	  </dependency>
+	  
+	  <!-- dependency 12 -->
+	  <dependency>
+		  <groupId>${spring-boot-starter-web.groupId}</groupId>
+    	  <artifactId>spring-boot-starter-web</artifactId>
+    	  <version>2.6.0</version>
+	  </dependency>
+	  
+	  <!-- dependency 13 -->
+	  <dependency>
+		  <groupId>${testng.groupId}</groupId>
+    	  <artifactId>testng</artifactId>
+    	  <version>7.4.0</version>
+	  </dependency>
+	  
+	  <!-- dependency 14 -->
+	  <dependency>
+		  <groupId>${httpclient.groupId}</groupId>
+    	  <artifactId>httpclient</artifactId>
+    	  <version>4.5.11</version>
+	  </dependency>
+	  
+	  <!-- dependency 15 -->
+	  <dependency>
+		  <groupId>${okhttp.groupId}</groupId>
+    	  <artifactId>okhttp</artifactId>
+    	  <version>3.1.0</version>
+	  </dependency>
+	  
+	  <!-- dependency 16 -->
+	  <dependency>
+		  <groupId>${spring-web.groupId}</groupId>
+    	  <artifactId>spring-web</artifactId>
+    	  <version>6.1.3</version>
+	  </dependency>
+	  
+	  <!-- dependency 17 -->
+	  <dependency>
+		  <groupId>${spring-boot-autoconfigure.groupId}</groupId>
+    	  <artifactId>spring-boot-autoconfigure</artifactId>
+    	  <version>3.0.3</version>
+	  </dependency>
+	  
+	  <!-- dependency 18 -->
+	  <dependency>
+		  <groupId>${mysql-connector-java.groupId}</groupId>
+    	  <artifactId>mysql-connector-java</artifactId>
+    	  <version>8.0.11</version>
+	  </dependency>
+	  
+	  <!-- dependency 19 -->
+	  <dependency>
+		  <groupId>${spring-beans.groupId}</groupId>
+    	  <artifactId>spring-beans</artifactId>
+    	  <version>5.3.4</version>
+	  </dependency>
+	  
+	  <!-- dependency 20 -->
+	  <dependency>
+		  <groupId>${commons-collections.groupId}</groupId>
+    	  <artifactId>commons-collections</artifactId>
+    	  <version>3.2</version>
+	  </dependency>
+	  
+	  <!-- dependency 21 -->
+	  <dependency>
+		  <groupId>${fastjson.groupId}</groupId>
+    	  <artifactId>fastjson</artifactId>
+    	  <version>1.2.22</version>
+	  </dependency>
+	  
+	  <!-- dependency 22 -->
+	  <dependency>
+		  <groupId>${logback-core.groupId}</groupId>
+    	  <artifactId>logback-core</artifactId>
+    	  <version>1.3.5</version>
+	  </dependency>
+	  
+	  <!-- dependency 23 -->
+	  <dependency>
+		  <groupId>${spring-webmvc.groupId}</groupId>
+    	  <artifactId>spring-webmvc</artifactId>
+    	  <version>6.0.10</version>
+	  </dependency>
+	  
+	  <!-- dependency 24 -->
+	  <dependency>
+		  <groupId>${json.groupId}</groupId>
+    	  <artifactId>json</artifactId>
+    	  <version>20200518</version>
+	  </dependency>
+	  
+	  <!-- dependency 25 -->
+	  <dependency>
+		  <groupId>${spring-core.groupId}</groupId>
+    	  <artifactId>spring-core</artifactId>
+    	  <version>6.0.3</version>
+	  </dependency>
+	  
+	  <!-- dependency 26 -->
+	  <dependency>
+		  <groupId>${commons-beanutils.groupId}</groupId>
+    	  <artifactId>commons-beanutils</artifactId>
+    	  <version>1.8.3</version>
+	  </dependency>
+	  
+	  <!-- dependency 27 -->
+	  <dependency>
+		  <groupId>${retrofit.groupId}</groupId>
+    	  <artifactId>retrofit</artifactId>
+    	  <version>2.3.0</version>
+	  </dependency>
+	  
+	  <!-- dependency 28 -->
+	  <dependency>
+		  <groupId>${protobuf-java.groupId}</groupId>
+    	  <artifactId>protobuf-java</artifactId>
+    	  <version>3.21.5</version>
+	  </dependency>
+	  
+	  <!-- dependency 29 -->
+	  <dependency>
+		  <groupId>${h2.groupId}</groupId>
+    	  <artifactId>h2</artifactId>
+    	  <version>2.0.204</version>
+	  </dependency>
+  </dependencies>
+</project>

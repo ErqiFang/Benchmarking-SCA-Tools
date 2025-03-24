@@ -1,0 +1,4 @@
+url,name,tag
+https://github.com/jedisct1/libsodium.git,libsodium,"""1.0.18-RELEASE"""
+https://github.com/ARMmbed/mbedtls.git,mbedtls,"""mbedtls-2.16.0"""
+https://github.com/SmartThingsCommunity/st-device-sdk-c.git,st-device-sdk-c,"""v1.7.0"""

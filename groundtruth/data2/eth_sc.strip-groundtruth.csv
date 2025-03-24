@@ -1,0 +1,10 @@
+url,name,tag
+https://github.com/boostorg/boost.git,boost,"""boost-1.77.0"""
+https://github.com/jedisct1/libsodium.git,libsodium,"""1.0.18"""
+https://github.com/gabime/spdlog.git,spdlog,"""v1.9.2"""
+https://github.com/libuv/libuv.git,libuv,"""v1.43.0"""
+https://github.com/weidai11/cryptopp.git,cryptopp,"""CRYPTOPP_8_6_0"""
+https://github.com/p-ranav/structopt.git,structopt,"""v0.1.1"""
+https://github.com/Tencent/rapidjson.git,rapidjson,"""v1.1.0"""
+https://github.com/abseil/abseil-cpp,abseil-cpp,"""20211102.rc2"""
+https://github.com/abseil/abseil-cpp,abseil-cpp,"""20211102.0"""

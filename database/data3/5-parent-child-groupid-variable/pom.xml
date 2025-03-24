@@ -1,0 +1,72 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.attackscenario5</groupId>
+  <artifactId>mavenproject</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>mavenproject</name>
+  <modules>
+  	<module>sharedlibraries</module>
+  </modules>
+  
+  <properties>
+	  <!-- groupId 1 -->
+	  <junit.groupId>junit</junit.groupId>
+	  <!-- groupId 2 -->
+	  <guava.groupId>com.google.guava</guava.groupId>
+	  <!-- groupId 3 -->
+	  <scala-library.groupId>org.scala-lang</scala-library.groupId>
+	  <!-- groupId 4 -->
+	  <kotlin-stdlib.groupId>org.jetbrains.kotlin</kotlin-stdlib.groupId>
+	  <!-- groupId 5 -->
+	  <jackson-databind.groupId>com.fasterxml.jackson.core</jackson-databind.groupId>
+	  <!-- groupId 6 -->
+	  <logback-classic.groupId>ch.qos.logback</logback-classic.groupId>
+	  <!-- groupId 7 -->
+	  <commons-io.groupId>commons-io</commons-io.groupId>
+	  <!-- groupId 8 -->
+	  <gson.groupId>com.google.code.gson</gson.groupId>
+	  <!-- groupId 9 -->
+	  <clojure.groupId>org.clojure</clojure.groupId>
+	  <!-- groupId 10 -->
+	  <log4j-core.groupId>org.apache.logging.log4j</log4j-core.groupId>
+	  <!-- groupId 11 -->
+	  <spring-context.groupId>org.springframework</spring-context.groupId>
+	  <!-- groupId 12 -->
+	  <spring-boot-starter-web.groupId>org.springframework.boot</spring-boot-starter-web.groupId>
+	  <!-- groupId 13 -->
+	  <testng.groupId>org.testng</testng.groupId>
+	  <!-- groupId 14 -->
+	  <httpclient.groupId>org.apache.httpcomponents</httpclient.groupId>
+	  <!-- groupId 15 -->
+	  <okhttp.groupId>com.squareup.okhttp3</okhttp.groupId>
+	  <!-- groupId 16 -->
+	  <spring-web.groupId>org.springframework</spring-web.groupId>
+	  <!-- groupId 17 -->
+	  <spring-boot-autoconfigure.groupId>org.springframework.boot</spring-boot-autoconfigure.groupId>
+	  <!-- groupId 18 -->
+	  <mysql-connector-java.groupId>mysql</mysql-connector-java.groupId>
+	  <!-- groupId 19 -->
+	  <spring-beans.groupId>org.springframework</spring-beans.groupId>
+	  <!-- groupId 20 -->
+	  <commons-collections.groupId>commons-collections</commons-collections.groupId>
+	  <!-- groupId 21 -->
+	  <fastjson.groupId>com.alibaba</fastjson.groupId>
+	  <!-- groupId 22 -->
+	  <logback-core.groupId>ch.qos.logback</logback-core.groupId>
+	  <!-- groupId 23 -->
+	  <spring-webmvc.groupId>org.springframework</spring-webmvc.groupId>
+	  <!-- groupId 24 -->
+	  <json.groupId>org.json</json.groupId>
+	  <!-- groupId 25 -->
+	  <spring-core.groupId>org.springframework</spring-core.groupId>
+	  <!-- groupId 26 -->
+	  <commons-beanutils.groupId>commons-beanutils</commons-beanutils.groupId>
+	  <!-- groupId 27 -->
+	  <retrofit.groupId>com.squareup.retrofit2</retrofit.groupId>
+	  <!-- groupId 28 -->
+	  <protobuf-java.groupId>com.google.protobuf</protobuf-java.groupId>
+	  <!-- groupId 29 -->
+	  <h2.groupId>com.h2database</h2.groupId>
+  </properties>
+</project>

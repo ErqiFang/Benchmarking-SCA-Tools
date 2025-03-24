@@ -1,0 +1,5 @@
+url,name,tag
+https://github.com/jarro2783/cxxopts.git,cxxopts,"""v3.0.0"""
+https://github.com/google/googletest.git,googletest,"""release-1.11.0"""
+https://github.com/martinus/robin-hood-hashing,robin-hood-hashing,"""3.5.1"""
+https://github.com/hyrise/hyrise.git,hyrise,"""paper/tpch"""

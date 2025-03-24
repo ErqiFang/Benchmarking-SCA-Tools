@@ -1,0 +1,54 @@
+{
+  "task_info": {
+    "tool_version": "v3.0.5",
+    "app_name": "local",
+    "size": 0,
+    "start_time": "2024-12-29 16:33:41",
+    "end_time": "2024-12-29 16:33:42",
+    "cost_time": 1.0788508
+  },
+  "id": "56867593298673664",
+  "children": [
+    {
+      "name": "local-path-test",
+      "version": "0.0.1",
+      "language": "JavaScript",
+      "id": "56867593298673665",
+      "direct": true,
+      "paths": [
+        "local\\package.json\\[local-path-test:0.0.1]"
+      ],
+      "children": [
+        {
+          "name": "underscore",
+          "version": "1.13.7",
+          "language": "JavaScript",
+          "id": "56867593298673668",
+          "direct": true,
+          "paths": [
+            "local\\package.json\\[local-path-test:0.0.1]\\[underscore:1.13.7]"
+          ],
+          "licenses": [
+            {
+              "name": "MIT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56867593298673666",
+      "direct": true,
+      "paths": [
+        "local\\output.json"
+      ]
+    },
+    {
+      "id": "56867593298673667",
+      "direct": true,
+      "paths": [
+        "local\\package.json"
+      ]
+    }
+  ]
+}

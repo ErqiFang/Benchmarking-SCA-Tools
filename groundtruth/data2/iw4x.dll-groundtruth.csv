@@ -1,0 +1,9 @@
+url,name,tag
+https://github.com/protocolbuffers/protobuf.git,protobuf,"""v3.11.0"""
+https://github.com/madler/zlib,zlib,"""v1.2.11"""
+https://github.com/libtom/libtommath.git,libtommath,"""v1.2.0"""
+https://github.com/libtom/libtomcrypt.git,libtomcrypt,"""v1.18.2"""
+https://github.com/XLabsProject/iw4x-client.git,iw4x-client,"""v0.6.1"""
+https://github.com/wmcbrine/PDCurses.git,PDCurses,"""3.9"""
+https://github.com/dropbox/json11.git,json11,"""v1.0.0"""
+https://github.com/cesanta/mongoose.git,mongoose,"""6.11"""

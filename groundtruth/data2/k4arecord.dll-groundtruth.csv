@@ -1,0 +1,9 @@
+url,name,tag
+https://github.com/Matroska-Org/libebml.git,libebml,"""release-1.3.6"""
+https://github.com/libjpeg-turbo/libjpeg-turbo.git,libjpeg-turbo,"""2.0.1"""
+https://github.com/Matroska-Org/libmatroska.git,libmatroska,"""release-1.4.9"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-rc"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-beta.0-rc"""
+https://github.com/microsoft/Azure-Kinect-Sensor-SDK.git,Azure-Kinect-Sensor-SDK,"""v1.4.1-beta.0"""
+https://github.com/gabime/spdlog.git,spdlog,"""v0.17.0"""

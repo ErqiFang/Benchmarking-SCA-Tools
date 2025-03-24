@@ -1,0 +1,18 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< org.autogen:mp-00000000 >-----------------------
+[INFO] Building mp-00000000 1.0.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.897 s
+[INFO] Finished at: 2022-09-05T19:45:50+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal on project mp-00000000: Could not resolve dependencies for project org.autogen:mp-00000000:jar:1.0.0: Failed to collect dependencies at org.jboss.jbossas:jboss-as-security:jar:client:5.1.0.CR1 -> org.jboss.security:jboss-security-spi:jar:2.0.3.SP1: Failed to read artifact descriptor for org.jboss.security:jboss-security-spi:jar:2.0.3.SP1: Could not transfer artifact org.jboss.security:jboss-security-spi:pom:2.0.3.SP1 from/to maven-default-http-blocker (http://0.0.0.0/): Blocked mirror for repositories: [repository.jboss.org (http://repository.jboss.org/maven2, default, releases), snapshots.jboss.org (http://snapshots.jboss.org/maven2, default, snapshots)] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/DependencyResolutionException

@@ -1,0 +1,5 @@
+url,name,tag
+https://github.com/continental/ecal,ecal,"""v5.9.4"""
+https://github.com/leethomason/tinyxml2,tinyxml2,"""9.0.0"""
+https://github.com/gabime/spdlog,spdlog,"""v1.9.2"""
+https://github.com/continental/fineftp-server,fineftp-server,"""v1.3.0"""

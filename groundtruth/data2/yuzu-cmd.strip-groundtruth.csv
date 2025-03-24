@@ -1,0 +1,7 @@
+url,name,tag
+https://github.com/benhoyt/inih.git,inih,"""r52"""
+https://github.com/herumi/xbyak.git,xbyak,"""v5.96"""
+https://github.com/xiph/opus.git,opus,"""v1.3.1"""
+https://github.com/libsdl-org/SDL.git,SDL,"""release-2.0.20"""
+https://github.com/yhirose/cpp-httplib.git,cpp-httplib,"""v0.9.1"""
+https://github.com/yuzu-emu/yuzu-mainline.git,yuzu-mainline,"""mainline-0-912"""

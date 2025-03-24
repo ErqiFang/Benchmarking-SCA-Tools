@@ -1,0 +1,23 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for org.autogen:scope:jar:1.0.0
+[WARNING] 'dependencies.dependency.systemPath' for nacos-sys:nacos-sys:jar should not point at files within the project directory, ${basedir}/../../resource/nacos-client-2.0.4.jar will be unresolvable by dependent projects @ line 41, column 19
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] -------------------------< org.autogen:scope >--------------------------
+[INFO] Building scope 1.0.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (default-cli) @ scope ---
+[INFO] Dependencies classpath:
+/home/nryet/.m2/repository/org/springframework/spring-web/5.3.7/spring-web-5.3.7.jar:/home/nryet/.m2/repository/org/springframework/spring-beans/5.3.7/spring-beans-5.3.7.jar:/home/nryet/.m2/repository/org/springframework/spring-core/5.3.7/spring-core-5.3.7.jar:/home/nryet/.m2/repository/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar:/home/nryet/.m2/repository/org/apache/servicemix/bundles/org.apache.servicemix.bundles.spring-core/5.3.9_1/org.apache.servicemix.bundles.spring-core-5.3.9_1.jar:/home/nryet/.m2/repository/org/springframework/spring-jcl/5.3.9/spring-jcl-5.3.9.jar:/home/nryet/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/nryet/PycharmProjects/MvnProjectGenerator/target/scope/../../resource/nacos-client-2.0.4.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.396 s
+[INFO] Finished at: 2022-09-05T19:43:19+08:00
+[INFO] ------------------------------------------------------------------------

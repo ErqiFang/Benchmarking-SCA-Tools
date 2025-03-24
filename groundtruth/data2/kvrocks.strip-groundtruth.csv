@@ -1,0 +1,6 @@
+url,name,tag
+https://github.com/google/glog.git,glog,"""v0.4.0"""
+https://github.com/facebook/rocksdb.git,rocksdb,"""v6.19.3"""
+https://github.com/libevent/libevent.git,libevent,"""release-2.1.11-stable"""
+https://github.com/jemalloc/jemalloc.git,jemalloc,"""5.2.1"""
+https://github.com/kvrockslabs/kvrocks.git,kvrocks,"""v2.0.5"""

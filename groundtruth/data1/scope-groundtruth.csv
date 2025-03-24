@@ -1,0 +1,7 @@
+Library,Scope,Library Version,File Path,Vulnerabilities,License,Language,Recommended upgrade,Vulnerability List
+org.autogen:scope,-,1.0.0,,,,,,[]
+org.springframework:spring-web,-,5.3.7,,,,,,[]
+org.springframework:spring-beans,-,5.3.7,,,,,,[]
+org.springframework:spring-core,-,5.3.7,,,,,,[]
+javax.servlet.jsp:jsp-api,-,2.1,,,,,,[]
+org.springframework:spring-jcl,-,5.3.9,,,,,,[]

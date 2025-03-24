@@ -1,0 +1,7 @@
+url,name,tag
+https://github.com/miniupnp/miniupnp.git,miniupnp,"""miniupnpc_2_2_3"""
+https://github.com/LMDB/lmdb.git,lmdb,"""LMDB_0.9.21"""
+https://github.com/weidai11/cryptopp.git,cryptopp,"""CRYPTOPP_8_5_0"""
+https://github.com/google/flatbuffers.git,flatbuffers,"""v2.0.0"""
+https://github.com/facebook/rocksdb.git,rocksdb,"""v6.11.4"""
+https://github.com/nanocurrency/nano-node.git,nano-node,"""V23.0"""

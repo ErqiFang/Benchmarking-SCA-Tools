@@ -1,0 +1,20 @@
+Thrid_library,Type,version,Introduce Type,Use Mode,True
+org.junit.jupiter:junit-jupiter-api,jar,5.9.2,test,org.junit.jupiter.api,False
+org.opentest4j:opentest4j,jar,1.2.0,test,org.opentest4j,False
+org.apiguardian:apiguardian-api,jar,1.1.2,test,org.apiguardian.api,False
+org.slf4j:slf4j-api,jar,2.0.13,compile,org.slf4j,False
+com.google.guava:guava,jar,32.1.2-jre,compile,com.google.common,True
+com.google.guava:failureaccess,jar,1.0.1,compile,failureaccess,True
+com.google.guava:listenablefuture,jar,9999.0-empty-to-avoid-conflict-with-guava,compile,listenablefuture,True
+com.google.code.findbugs:jsr305,jar,3.0.2,compile,jsr305,True
+org.checkerframework:checker-qual,jar,3.33.0,compile,org.checkerframework.checker.qual,True
+com.google.errorprone:error_prone_annotations,jar,2.18.0,compile,com.google.errorprone.annotations,True
+com.google.j2objc:j2objc-annotations,jar,2.8,compile,j2objc.annotations,True
+org.mockito:mockito-core,jar,5.11.0,test,org.mockito,True
+net.bytebuddy:byte-buddy,jar,1.14.12,test,net.bytebuddy,False
+net.bytebuddy:byte-buddy-agent,jar,1.14.12,test,net.bytebuddy.agent,False
+org.objenesis:objenesis,jar,3.3,test,org.objenesis,True
+com.fasterxml.jackson.core:jackson-databind,jar,2.17.1,compile,com.fasterxml.jackson.databind,False
+com.fasterxml.jackson.core:jackson-annotations,jar,2.17.1,compile,com.fasterxml.jackson.annotation,False
+com.fasterxml.jackson.core:jackson-core,jar,2.17.1,compile,com.fasterxml.jackson.core,False
+org.apache.commons:commons-lang3,jar,3.13.0,compile,org.apache.commons.lang3,True

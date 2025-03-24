@@ -1,0 +1,6 @@
+url,name,tag
+https://github.com/grpc/grpc.git,grpc,"""v1.42.0"""
+https://github.com/c-ares/c-ares.git,cares,"""cares-1_15_0"""
+https://github.com/abseil/abseil-cpp.git,abseil-cpp,"""20210324.2"""
+https://github.com/madler/zlib,zlib,"""v1.2.11"""
+https://github.com/google/re2.git,re2,"""2021-09-01"""
