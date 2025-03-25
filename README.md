@@ -16,6 +16,8 @@ The repository consists of two main components:
 
 ## Dataset Description
 
+![Description](database.png)
+
 The repository includes the following datasets:
 
 - **DS1 (Java-Maven Dependency Dataset):**  
