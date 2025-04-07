@@ -1,7 +1,7 @@
-# Tool or Toy: Are SCA Tools Ready for Challenging Scenarios?
+# Benchmarking-SCA-Tools
 
 ## Overview
-This repository contains the datasets and ground truth used in the paper *"Beyond Core Capabilities: A Scenario-Driven Benchmarking of SCA Tools for OSS."* It provides a standardized framework for evaluating Software Composition Analysis (SCA) tools across multi-language ecosystems, binary dependency detection, and adversarial threat defense. The datasets assess SCA tools’ capabilities in dependency resolution, vulnerability identification, and license detection, offering a comprehensive benchmark for real-world performance evaluation.  
+This repository contains the datasets and ground truth used in the paper *"Tool or Toy: Are SCA Tools Ready for Challenging Scenarios?"* It provides a standardized framework for evaluating Software Composition Analysis (SCA) tools across multi-language ecosystems, binary dependency detection, and adversarial threat defense. The datasets assess SCA tools’ capabilities in dependency resolution, vulnerability identification, and license detection, offering a comprehensive benchmark for real-world performance evaluation.  
 
 
 ## Repository Structure
