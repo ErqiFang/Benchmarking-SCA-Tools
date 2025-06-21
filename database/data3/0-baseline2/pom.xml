@@ -115,7 +115,7 @@
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-web</artifactId>
-    	  <version>6.1.3_update</version>
+    	  <version>6.1.21</version>
 	  </dependency>
 	  
 	  <!-- dependency 17 -->
