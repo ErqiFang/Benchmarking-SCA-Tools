@@ -155,7 +155,7 @@
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-beans</artifactId>
     	  <!-- <version>5.3.4_update</version> -->
-    	  <version>6.1.7_update</version>
+    	  <version>6.2.10</version>
 	  </dependency>
 	  
 	  <!-- dependency 20 -->
