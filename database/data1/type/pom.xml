@@ -13,13 +13,13 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>5.3.7</version>
+      <version>6.2.11</version>
       <type>jar</type>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>5.3.7</version>
+      <version>6.2.11</version>
       <type>pom</type>
     </dependency>
 <!-- https://mvnrepository.com/artifact/io.hops/hadoop-hdfs -->
