@@ -203,7 +203,7 @@
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-core</artifactId>
     	  <!-- <version>6.0.3_update</version> -->
-    	  <version>6.1.7_update</version>
+    	  <version>6.2.11</version>
 	  </dependency>
 	  
 	  <!-- dependency 26 -->
