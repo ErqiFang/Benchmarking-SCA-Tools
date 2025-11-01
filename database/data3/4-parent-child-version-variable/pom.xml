@@ -33,7 +33,7 @@
 	  <!-- version 11 -->
 	  <spring-context.version>5.3.12</spring-context.version>
 	  <!-- version 12 -->
-	  <spring-boot-starter-web.version>2.6.0</spring-boot-starter-web.version>
+	  <spring-boot-starter-web.version>3.4.11</spring-boot-starter-web.version>
 	  <!-- version 13 -->
 	  <testng.version>7.4.0</testng.version>
 	  <!-- version 14 -->
