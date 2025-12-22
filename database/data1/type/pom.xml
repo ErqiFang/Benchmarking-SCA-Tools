@@ -62,13 +62,13 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-log4j2</artifactId>
-      <version>2.6.1</version>
+      <version>4.0.1</version>
       <type>javadoc</type>
     </dependency>
     <dependency>
       <groupId>io.apiman</groupId>
       <artifactId>apiman-distro-tools</artifactId>
-      <version>2.2.0.Final</version>
+      <version>2.2.2.Final</version>
       <type>zip</type>
     </dependency>
 
