@@ -7,7 +7,7 @@
   "dependencies": {
     "jquery": "3.0.0-alpha1",
     "boom": "",
-    "console-io": "2.6.3",
+    "console-io": "3.0.12",
     "cookie-signature": "1.0.2"
   },
   "devDependencies": {
